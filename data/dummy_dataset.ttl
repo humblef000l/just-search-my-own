@@ -1,0 +1,223 @@
+@prefix : <http://api.stardog.com/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stardog: <tag:stardog:api:> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix Intern_Project_Model: <http://api.stardog.com> .
+
+@prefix res: <http://api.stardog.comrestaurant#> .
+@prefix sch: <http://api.stardog.comschool#> .
+@prefix mis:  <http://api.stardog.comMiscServices#> .
+
+<http://api.stardog.comrestaurant> a owl:Class ;
+   <tag:stardog:studio:label> "restaurant" ;
+   rdfs:label "restaurant" ;
+   rdfs:comment "Contains restaurant instances" ;
+   rdfs:subClassOf owl:Thing .
+<http://api.stardog.comMiscServices> a owl:Class ;
+   <tag:stardog:studio:label> "MiscServices" ;
+   rdfs:label "MiscServices" ;
+   rdfs:comment "contains instances of miscellaneous service such as DVD buying, electrician etc." ;
+   rdfs:subClassOf owl:Thing .
+<http://api.stardog.comschool> a owl:Class ;
+   <tag:stardog:studio:label> "school" ;
+   rdfs:label "school" ;
+   rdfs:comment "contains instances of school." ;
+   rdfs:subClassOf owl:Thing .
+<http://api.stardog.comhasName> a owl:DatatypeProperty , owl:ObjectProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasName" ;
+   rdfs:label "hasName" .
+
+
+<http://api.stardog.comhasschoolType> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasschoolType" ;
+   rdfs:label "hasschoolType" .
+
+<http://api.stardog.comhasLocation> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasLocation" ;
+   rdfs:label "hasLocation" .
+
+<http://api.stardog.comhasLandmark> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasLandmark" ;
+   rdfs:label "hasLandmark" .
+
+
+<http://api.stardog.comhasLatitude> a owl:DatatypeProperty ;
+   rdfs:range xsd:double ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasLatitude" ;
+   rdfs:label "hasLatitude" .
+<http://api.stardog.comhasLongitude> a owl:DatatypeProperty ;
+   rdfs:range xsd:double ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasLongitude" ;
+   rdfs:label "hasLongitude" .
+<http://api.stardog.comhasPrice> a owl:DatatypeProperty ;
+   rdfs:range xsd:float ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> ;
+   <tag:stardog:studio:label> "hasPrice" ;
+   rdfs:label "hasPrice" .
+
+
+<http://api.stardog.comhasVegFood> a owl:DatatypeProperty ;
+   rdfs:range xsd:boolean ;
+   rdfs:domain <http://api.stardog.comrestaurant> ;
+   <tag:stardog:studio:label> "hasVegFood" ;
+   rdfs:label "hasVegFood" .
+
+
+<http://api.stardog.comhasPhone> a owl:DatatypeProperty ;
+   rdfs:range xsd:decimal ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasPhone" ;
+   rdfs:label "hasPhone" .
+
+<http://api.stardog.comhasAddress> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comrestaurant> , <http://api.stardog.comMiscServices> , <http://api.stardog.comschool> ;
+   <tag:stardog:studio:label> "hasAddress" ;
+   rdfs:label "hasAddress" .
+
+
+<http://api.stardog.comhasMealType> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comrestaurant> ;
+   <tag:stardog:studio:label> "hasMealType" ;
+   rdfs:label "hasMealType" .
+
+<http://api.stardog.comhasService> a owl:DatatypeProperty ;
+   rdfs:range xsd:string ;
+   rdfs:domain <http://api.stardog.comMiscServices> ;
+   <tag:stardog:studio:label> "hasService" ;
+   rdfs:label "hasService" .
+
+#restaurant:
+
+
+
+res:01   :hasName    "Le Meridian" ;
+        a    <http://api.stardog.comrestaurant> ;
+    :hasLocation    "jayaNagar" ;
+    :hasLandmark    "Bus Terminus" ;
+    :hasLatitude    23.455 ;
+    :hasLongitude   12.45 ;
+    :hasPrice   50 ;
+    :hasVegFood true ;
+    :hasPhone   1234583748;
+    :hasAddress "abc 123 jayanagar" ;
+    :hasMealType "Lunch" .
+	
+res:02   :hasName    "Mer Meri" ;
+    a    <http://api.stardog.comrestaurant>;
+    :hasLocation    "Adugodi" ;
+    :hasLandmark    "Forum mall" ;
+    :hasLatitude    22.455 ;
+    :hasLongitude   15.45 ;
+    :hasPrice   54 ;
+    :hasVegFood true ;
+    :hasPhone   1234583748;
+    :hasAddress "123 block 3 avc" ;
+    :hasMealType "Lunch" .
+
+res:03   :hasName    "Mer Meri" ;
+    a    <http://api.stardog.comrestaurant>;
+    :hasLocation    "Ghaziabad" ;
+    :hasLandmark    "Forum mall" ;
+    :hasLatitude    54.455 ;
+    :hasLongitude   54.45 ;
+    :hasPrice   76 ;
+    :hasVegFood true ;
+    :hasPhone   23849382919;
+    :hasAddress "123 block 3 avc" ;
+    :hasMealType "Breakfast" .
+
+#school:
+
+sch:01   a    <http://api.stardog.comschool> ;
+    :hasName    "Ryan International" ;
+    :hasLocation    "Ghaziabad" ;
+    :hasLandmark    "Forum mall" ;
+    :hasLatitude    34.56 ;
+    :hasLongitude   657.32 ;
+    :hasschoolType  "Primary and Secondary" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 3 avc" .
+
+sch:02  a    <http://api.stardog.comschool> ;
+    :hasName    "Mount High Academy" ;
+    :hasLocation    "Jayanagar" ;
+    :hasLandmark    "kadambam restaurant" ;
+    :hasLatitude    34.56 ;
+    :hasLongitude   657.32 ;
+    :hasschoolType  "Nursery primary secondary" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 3 avc" .
+
+#electrician:
+
+mis:01  a   <http://api.stardog.comMiscServices> ;   
+    :hasName    "Raju Electrician" ;
+    :hasLocation    "Vijayanagar" ;
+    :hasLandmark    "Forum mall" ;
+    :hasLatitude    12.56 ;
+    :hasLongitude   42.87 ;
+    :hasPrice   500 ;
+    :hasService "Electrical service provider ( electrician ) borewell pumps" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 3 avc" .
+
+#dvd seller:
+
+mis:02  a <http://api.stardog.comMiscServices> ; 
+    :hasName    "Star DVD Shopee" ;
+    :hasLocation    "Vijayanagar" ;
+    :hasLandmark    "Forum mall" ;
+    :hasLatitude    12.76 ;
+    :hasLongitude   90.12 ;
+    :hasPrice   99 ;
+    :hasService "English Blockbuster VCD" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 3 avc" .
+
+#doctor:
+
+mis:03  a   <http://api.stardog.comMiscServices> ;
+    :hasName    "Dr. Sanjay Mishra" ;
+    :hasLocation    "New Delhi" ;
+    :hasLandmark    "Kavi Nagar" ;
+    :hasLatitude    45.67 ;
+    :hasLongitude   23.67 ;
+    :hasPrice   300 ;
+    :hasService "Eye Doctor Home Service" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 3 avc" .
+
+#Book store
+mis:04  a   <http://api.stardog.comMiscServices> ;   
+    :hasName    "Quality Book Store" ;
+    :hasLocation    "Vijayanagar" ;
+    :hasLandmark    "Ambience mall" ;
+    :hasLatitude    12.56 ;
+    :hasLongitude   42.87 ;
+    :hasService "books for 9th,12th and college students. Languages:Kannada,Malyalam,Marathi,English" ;
+    :hasPhone   2942910382;
+    :hasAddress "123 block 45 vijayanagar" .
+#coconut plucker
+mis:05  a   <http://api.stardog.comMiscServices> ;   
+    :hasName    "Vijay Shetty Stall" ;
+    :hasLocation    "Vijayanagar" ;
+    :hasLandmark    "near Big Bazaar" ;
+    :hasLatitude    12.56 ;
+    :hasLongitude   42.87 ;
+    :hasService "Coconut plucker, Tree plantation" ;
+    :hasPhone   2942910382;
+    :hasAddress "vijayanagar" .

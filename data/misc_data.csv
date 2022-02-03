@@ -1,0 +1,634 @@
+hasName,hasLocation,hasAddress,hasLandmark,latitude,longitude,hasPrice,hasPhone,hasService
+MEELAS By Gbappa,Mumbai,"Viento 14, Lakeshore Greens,, Taloja By Pass Road, Khoni, Thane - 421204, Lodha Palava 2",,20.156,794.632801,960,8892895043,Grocery Stores
+Pramanik Provision Stores,Mumbai,"Shop No 658, Tardeo Road, Tardeo, Mumbai - 400034, Opposite Bhatiya Hospital, Kailash Nagar",,41.8664,72.40110516,753,3116109501,Grocery Stores
+Rakhangi General Stores Nx,Mumbai,"Plot No 2, Kakad Estate, R G Thadani Marg, Worli, Mumbai - 400018",,70.8981,583.9683008,1266,6969596170,Grocery Stores
+Marketplace,Mumbai,"Shop No. 2, Satyam Heritage,, Opp. Amber Plaza, Vijay Park,, Mira Road, Thane - 401107, Opp. Amber Plaza, Mira Road, Maharashtra 401107","401107, Opp. Amber Plaza, Mira Road, Maharashtra 401107",70.1756,394.4458777,1820,5360538157,Grocery Stores
+Khetlaji Super Market,Mumbai,"Shop No 8, Swastik Regalia Building, Waghbil-thane West, Thane - 400607",,24.5735,981.5393228,648,1364971295,Grocery Stores
+S P Super Bazar,Mumbai,"Shop No 98 Aadarsh Nagar Old Hill Qutres, Aarey Road, Goregaon East, Mumbai - 400065, Near Bawadi",Bawadi,46.274,109.5381985,941,1924213362,Grocery Stores
+CHHEDAS,Mumbai,"Shop No 7, Ajanta Building, 3rd Cross Road,, Khar West, Mumbai - 400052, Ram Krishna Nagar  Near Khar Railway",KharRailway,50.0762,914.3215412,1556,4899085999,Grocery Stores
+A 1 Super Market,Mumbai,"Surya Nagar ,, Ahilyabai Holkar Road, Vikhroli West, Mumbai - 400083, Opposite Shiv Sena Office, Sambhaji Chowk",Sambhaji Chowk,51.4343,371.9361602,1620,3511158001,Grocery Stores
+Jai Bhawani Masala Mill,Mumbai,"Shop No.2, Ganga Chaya Building, Station Road, Bhayander East, Thane - 401105, Opp.Railway Reservation Counter",Railway Reservation Counter,58.3755,833.5557189,1100,3016175303,Grocery Stores
+Gupta Store,Mumbai,"Shop No 13, Sion Koliwada, Sion Koliwada, Mumbai - 400022, Behind Hazara Hotel and Besides Shiv Dairy .",Shiv Dairy,38.5556,256.5994801,1916,7944785822,Grocery Stores
+Shiv Shankar Dryfruit,Mumbai,"Shop-7/17,Parwati Commercial,Shivdham Complex, Station Road, Ambernath, Thane - 421501, Near Sibbu Palace",Sibbu Palace,0.2028,956.4338848,958,4578985022,Grocery Stores
+Vainkho Groceries,Mumbai,"Warehouse No. 4, Sarvodya Nagar,, Jambul Road, Ambernath West, Ambernath, Thane - 421505, Jambul Phata",Phata,1.8486,466.3108635,1508,9852836483,Grocery Stores
+Mauli Super Market,Mumbai,"Shop No 33, Ground Floor,, Bhau Saheb Todankar Road, Prabhadevi, Mumbai - 400013, Near Prabhadevi Railway Station",Prabhadevi Railway Station,70.9973,117.4975493,538,7247839784,Grocery Stores
+The Rakhangi General Store,Mumbai,"Shop No. 4, Ratna Shree Opp Crompton Greaves Office, Century Bazar Worli, Worli Sea Face, Mumbai - 400030",umbai,98.372,164.0806658,938,2605342774,Grocery Stores
+Victors Mart,Mumbai,"Direct No. 1381, Room NO. 8, Shop NO.1, NEar Ashirwad Hospital Marata Section 32. Ulhasnagar 4, Kaly, Maratha Section-32, Ulhasnagar No 4, Thane - 421004, Ashirwad Hospital","Section 32. Ulhasnagar 4, Kaly, Maratha Section-32, Ulhasnagar No 4, Thane - 421004, Ashirwad Hospital",23.5428,727.6292331,1883,3899012462,Grocery Stores
+Dedhia Stores,Mumbai,"Shop Number 4 & 5, Radhakrishna Bhuvan, Arnala Road, Agashi, Palghar - 401301, Opposite Canara Bank, Near Agashi Baazar Peeth",AgashiPeeth,6.5199,585.0348811,1542,5121732111,Grocery Stores
+Oswal Supermarket,Mumbai,"Mr Chintan Chheda, S L Road, Mulund West, Mumbai - 400080, Opposite to Station ,Near Sant Jalaram Bappa Market",Near Sant Jalaram Bappa Market,28.7696,340.243557,784,9211695891,Grocery Stores
+M B Mart,Mumbai,"Plot No A-1, A-2, Thavar Madan Chawl, Jain Temple Road, Malad East, Mumbai - 400097, Opposite Jain Temple, Near Western Express Highway","East, Mumbai - 400097, Opposite Jain Temple, Near Western Express Highway",11.6031,157.6998301,650,4371054107,Grocery Stores
+Grrovers Supermart,Mumbai,"Shop No 17, Krypton Terrace, Sayani Road, Prabhadevi, Mumbai - 400025",,66.3617,572.7054154,557,465134458,Grocery Stores
+Shree Siddhanath Aapla Baza..,Mumbai,"Plot No. C-25, Mahada Colony, Sambhaji Nagar,, Badlapur East, Badlapur, Thane - 421503, Behind Aadarsh College and Near Digi 1",Behind Aadarsh College and Near Digi 1,13.2313,324.3620377,1287,7629160463,Grocery Stores
+Shiv Shankar Dryfruit,Mumbai,"Shop-7/17,Parwati Commercial,Shivdham Complex, Station Road, Ambernath, Thane - 421501, Near Sibbu Palace",Sibbu Palace,31.3976,857.6199342,1512,7926475835,Grocery Stores
+Vainkho Groceries,Mumbai,"Warehouse No. 4, Sarvodya Nagar,, Jambul Road, Ambernath West, Ambernath, Thane - 421505, Jambul Phata",Phata,11.05,278.301706,632,6077859260,Grocery Stores
+Mauli Super Market,Mumbai,"Shop No 33, Ground Floor,, Bhau Saheb Todankar Road, Prabhadevi, Mumbai - 400013, Near Prabhadevi Railway Station",Prabhadevi Railway Station,77.2317,831.9325625,1827,6076530882,Grocery Stores
+The Rakhangi General Store,Mumbai,"Shop No. 4, Ratna Shree Opp Crompton Greaves Office, Century Bazar Worli, Worli Sea Face, Mumbai - 400030",umbai,62.9135,86.61957455,668,1417237986,Grocery Stores
+Victors Mart,Mumbai,"Direct No. 1381, Room NO. 8, Shop NO.1, NEar Ashirwad Hospital Marata Section 32. Ulhasnagar 4, Kaly, Maratha Section-32, Ulhasnagar No 4, Thane - 421004, Ashirwad Hospital","Section 32. Ulhasnagar 4, Kaly, Maratha Section-32, Ulhasnagar No 4, Thane - 421004, Ashirwad Hospital",66.4141,825.4794835,1092,8209433037,Grocery Stores
+Dedhia Stores,Mumbai,"Shop Number 4 & 5, Radhakrishna Bhuvan, Arnala Road, Agashi, Palghar - 401301, Opposite Canara Bank, Near Agashi Baazar Peeth",AgashiPeeth,85.7242,202.5517797,1973,3484328342,Grocery Stores
+Oswal Supermarket,Mumbai,"Mr Chintan Chheda, S L Road, Mulund West, Mumbai - 400080, Opposite to Station ,Near Sant Jalaram Bappa Market",Near Sant Jalaram Bappa Market,43.4605,630.5879867,1143,4335428041,Grocery Stores
+M B Mart,Mumbai,"Plot No A-1, A-2, Thavar Madan Chawl, Jain Temple Road, Malad East, Mumbai - 400097, Opposite Jain Temple, Near Western Express Highway","East, Mumbai - 400097, Opposite Jain Temple, Near Western Express Highway",99.0257,155.9899464,1359,3058496403,Grocery Stores
+Grrovers Supermart,Mumbai,"Shop No 17, Krypton Terrace, Sayani Road, Prabhadevi, Mumbai - 400025",,93.0104,743.7605219,901,3490216821,Grocery Stores
+Shree Siddhanath Aapla Baza..,Mumbai,"Plot No. C-25, Mahada Colony, Sambhaji Nagar,, Badlapur East, Badlapur, Thane - 421503, Behind Aadarsh College and Near Digi 1",Behind Aadarsh College and Near Digi 1,85.9167,290.4519397,1789,2900154731,Grocery Stores
+Suresh Stores,Mumbai,"Shop No.24, Ground Floor.   Galaxy Complex Sell Building, J W Road, Parel, Mumbai - 400012",,26.6882,107.7145316,550,3809824526,Grocery Stores
+Apka Super Market,Mumbai,"Sunil Nagar , Tukaram Nagar, Nandivali Road, Dombivli East, Thane - 421201, Near Nandivali Nala",,80.077,138.5002359,1634,4387139905,Grocery Stores
+Nakoda Super Market,Mumbai,"DEV Krupa Buildng, Shop No 1, 2&3, Virar West, Palghar - 401303, Opposite Vidyavihar School, Virat Nagar","School, Virat Nagar",14.0506,383.8492046,683,2064340392,Grocery Stores
+Niti General Stores,Mumbai,"37 / 2602  G D Ambe Kar, G D Ambekar Marg, Kala Chowki, Mumbai - 400033, Near Abhyudaya Nagar, G D Ambedkar Marg","400033, Near Abhyudaya Nagar, G D Ambedkar Marg",23.4048,796.1507725,820,8397000805,Grocery Stores
+Here 4 U Pharmacy,Mumbai,"Shop No 5 Dlh Dream Tower Building, Jai Bhavani Mata Road, Andheri West, Mumbai - 400058, Amboli",mboli,91.3096,605.8910844,644,3762434954,Grocery Stores
+Vegknife Online Delivery Se..,Mumbai,"Kanchan Co-operative Society, Sagarli, Dombivli East, Thane - 421203, South Indian College (SIA COLLEGE)",(SIA COLLEGE,9.8952,846.0126355,573,742465540,Grocery Stores
+M T L Masala,Mumbai,"Tain Villa , Shop No 5, Puja Nagar, Naya Nagar-Mira Road, Thane - 401107, Muhammadi Masjid",Muhammadi Masjid,25.3758,324.7399602,870,6792202118,Grocery Stores
+9to9 Mart,Mumbai,"Green Park Society, Shop D 13, Off New Link Road, Andheri West, Mumbai - 400053, Opp.Walawalkar Garden","400053, Opp.Walawalkar Garden",16.702,265.4147347,1223,4378543534,Grocery Stores
+Gala Traders,Mumbai,"Shop No 4, Gagangiri Building,  Plot No 47, Vashi Sector 17, Navi Mumbai - 400703, Near Abhudaya Bank Marg","400703, Near Abhudaya Bank Marg",21.9011,796.9901372,1185,8942172863,Grocery Stores
+Jay Sadguru Traders,Mumbai,"Nalasopara East, Palghar - 401209, Near Station",,30.5383,34.68529527,1570,9825648017,Grocery Stores
+Suresh Stores,Mumbai,"Shop No.24, Ground Floor.   Galaxy Complex Sell Building, J W Road, Parel, Mumbai - 400012",,44.4242,902.8089572,693,8725046584,Grocery Stores
+Apka Super Market,Mumbai,"Sunil Nagar , Tukaram Nagar, Nandivali Road, Dombivli East, Thane - 421201, Near Nandivali Nala",,23.9075,245.7885149,813,282348571,Grocery Stores
+Nakoda Super Market,Mumbai,"DEV Krupa Buildng, Shop No 1, 2&3, Virar West, Palghar - 401303, Opposite Vidyavihar School, Virat Nagar","School, Virat Nagar",89.1246,444.6680214,577,6532284192,Grocery Stores
+Niti General Stores,Mumbai,"37 / 2602  G D Ambe Kar, G D Ambekar Marg, Kala Chowki, Mumbai - 400033, Near Abhyudaya Nagar, G D Ambedkar Marg","400033, Near Abhyudaya Nagar, G D Ambedkar Marg",29.9587,335.7440237,763,5738360763,Grocery Stores
+Here 4 U Pharmacy,Mumbai,"Shop No 5 Dlh Dream Tower Building, Jai Bhavani Mata Road, Andheri West, Mumbai - 400058, Amboli",mboli,46.4009,877.4036068,1491,602107968,Grocery Stores
+Vegknife Online Delivery Se..,Mumbai,"Kanchan Co-operative Society, Sagarli, Dombivli East, Thane - 421203, South Indian College (SIA COLLEGE)",(SIA COLLEGE,4.6192,309.2992821,1623,126056674,Grocery Stores
+M T L Masala,Mumbai,"Tain Villa , Shop No 5, Puja Nagar, Naya Nagar-Mira Road, Thane - 401107, Muhammadi Masjid",Muhammadi Masjid,14.6777,252.8936475,1204,1839279020,Grocery Stores
+9to9 Mart,Mumbai,"Green Park Society, Shop D 13, Off New Link Road, Andheri West, Mumbai - 400053, Opp.Walawalkar Garden","400053, Opp.Walawalkar Garden",8.1107,939.7389611,721,9339108802,Grocery Stores
+Gala Traders,Mumbai,"Shop No 4, Gagangiri Building,  Plot No 47, Vashi Sector 17, Navi Mumbai - 400703, Near Abhudaya Bank Marg","400703, Near Abhudaya Bank Marg",22.278,573.3913146,1702,9124942651,Grocery Stores
+Jay Sadguru Traders,Mumbai,"Nalasopara East, Palghar - 401209, Near Station",,64.2642,425.0831994,1358,7635929495,Grocery Stores
+Thane Super Market,Mumbai,"Prayag Tirth, Veer Savarkar Marg, Naupada-thane West, Thane - 400602, Opposite Lokmanya Society",iety,45.163,721.4791649,1756,425711687,Grocery Stores
+Savla Dry Fruits,Mumbai,"Shradha Bhavan, Station Road, Thane West, Thane - 400601, Near Vishnunagar Ghantali Chowk Naupada",aupada,34.933,218.6888796,1657,8923421677,Grocery Stores
+Natures Bazzaar,Mumbai,"Shop No 1,Khokar Compound, Borivali West, Ram Nagar-Borivali West, Mumbai - 400092, Opposite Parwana Tower",Opposite Parwana Tower,89.0789,945.7057014,838,1743416513,Grocery Stores
+Sahakar Dhanya Bhandar,Mumbai,"Shop No 3 ,, Poorva Megh Chs, Mulund East, Mumbai - 400081, Junction Of L.T Road & G V Scheme No 2",T Road & G V Scheme No 2,14.3189,112.2297728,1529,1080480806,Grocery Stores
+Neelam Foodland,Mumbai,"3,5,6,7 Tanna Kutir, Plot No 540, C D Marg, Khar Danda Road, Khar West, Mumbai - 400052, Near 1st & 17th Road Corner","Danda Road, Khar West, Mumbai - 400052, Near 1st & 17th Road Corner",69.4843,582.1521586,1125,8072869902,Grocery Stores
+Jain Traders,Mumbai,"Shop No 10, Parshava Kunj Building, Mathurdas Road, Kandivali West, Mumbai - 400067, Next to Hari Om Hotel",to Hari Om Hotel,94.0619,216.0170563,1628,1250489446,Grocery Stores
+Manilal Traders,Mumbai,"Shop No.1, Opposite Building No.8, Tagore Nagar, Station Road, Vikhroli East, Mumbai - 400083",Mumbai - 400083,86.7172,68.64380906,1763,7718611236,Grocery Stores
+Shree Ganesh Stores,Mumbai,"Shop No 5, Ismail Kureshi Compound, New Link Road, Behram Baug-Jogeshwari West, Mumbai - 400102, Opposite Three Star Bakery,Near Mahatma Gandhi School","Mumbai - 400102, Opposite Three Star Bakery,Near Mahatma Gandhi School",35.3685,853.5727279,1748,1815693421,Grocery Stores
+Mumbai Mart,Mumbai,"Shop No 12 Akansha Heights Opp Sai Service Station Gandhi Nagar, D S Road, Worli, Mumbai - 400018, Wellcare Pharmacy & More","400018, Wellcare Pharmacy & More",59.8228,95.80493967,1446,8437794292,Grocery Stores
+Monarch Dry Fruit,Mumbai,"Shop No. 48-50, Surya Darshan Building, Walkeshwar Road, Walkeshwar, Mumbai - 400006, Opposite Sheetal Baug Bus Stop",Sheetal Baug Bus Stop,0.1197,968.6811562,1994,7004559494,Grocery Stores
+Manilal Traders,Mumbai,"Shop No.1, Opposite Building No.8, Tagore Nagar, Station Road, Vikhroli East, Mumbai - 400083",Mumbai - 400083,66.2285,982.9645162,828,8993198845,Grocery Stores
+Shree Ganesh Stores,Mumbai,"Shop No 5, Ismail Kureshi Compound, New Link Road, Behram Baug-Jogeshwari West, Mumbai - 400102, Opposite Three Star Bakery,Near Mahatma Gandhi School","Mumbai - 400102, Opposite Three Star Bakery,Near Mahatma Gandhi School",29.0542,491.6346583,945,9685833408,Grocery Stores
+Mumbai Mart,Mumbai,"Shop No 12 Akansha Heights Opp Sai Service Station Gandhi Nagar, D S Road, Worli, Mumbai - 400018, Wellcare Pharmacy & More","400018, Wellcare Pharmacy & More",50.6472,664.895092,832,9947298859,Grocery Stores
+Monarch Dry Fruit,Mumbai,"Shop No. 48-50, Surya Darshan Building, Walkeshwar Road, Walkeshwar, Mumbai - 400006, Opposite Sheetal Baug Bus Stop",Sheetal Baug Bus Stop,56.693,855.0774613,829,6631438876,Grocery Stores
+Delite Retail,Delhi,"Shop No-23, Shoping Park Mall, Shalimar Bagh, Delhi - 110088, Near Indian Petrol Pump and BFH Block",FH Block,91.2576,317.000799,1700,4146446217,Grocery Stores
+Chakki 365,Delhi,"B - 27/11, Gali No. 7, Shaheen Bagh-Jamia Nagar, Delhi - 110025",,52.8554,972.7484672,1948,5608263523,Grocery Stores
+Sumer Chand Tara Chand,Delhi,"Shop No-68/3, Sadar Bazaar, Basai Road, Gurgaon - 122001, Near Zevar Mahal",Zevarr Mahal,32.3445,958.9262079,1748,8935945235,Grocery Stores
+7 Thirty Mart,Delhi,"144, Avtar Enclave, Paschim Vihar, Delhi - 110063, Near Multan Nagar Red Light",,53.6681,174.0928782,1454,4170613783,Grocery Stores
+Wonderzon.com Store to Door,Delhi,"122,Antriksh Appartment, Vikaspuri, Delhi - 110018",,56.6816,833.6623418,990,525936729,Grocery Stores
+Bg Supermart,Delhi,"90G, Zamrudpur-Greater Kailash 1, Delhi - 110048, Nr Skin Institute,Jamrudpur",Institutemrudpur,93.4219,209.3006514,843,9356092604,Grocery Stores
+Jain Confectionery & Import..,Delhi,"Shop Number 266, INA Market, Delhi - 110022, Opposite Delhi Hart",,98.1685,644.4485614,690,3909497798,Grocery Stores
+Discount Bazaar,Delhi,"440 Niti Khand 1 Indirapuram, Mangal Chowk Road, Indirapuram, Ghaziabad - 201014, Opposite Cambridge School",Cambridge School,40.6605,3.241225177,1676,8725089504,Grocery Stores
+Ritirivaaj,Delhi,"Metro Pillar No. 42., Shakerpur, Shakarpur, Delhi - 110092",,26.4757,969.3257498,1704,4862093496,Grocery Stores
+J Mart,Delhi,"In Front Of 14th Avenue, Gaur City Road-Gaur City 2, Gaur City 1, Noida - 201318","1, Noida - 201318",11.0567,321.6291223,1639,1719673612,Grocery Stores
+The Vital Mart,Delhi,"G-1,2 Pankaj Arcade Plot No.5, Pocket-4, Dwarka Sector 11, Delhi - 110075",Delhi - 110075,41.7158,455.4212293,615,930287752,Grocery Stores
+Delhyver Food Retail Pvt. L..,Delhi,"G-41, Vikas Cine Mall, G.T Road Shahdara, Shahdara, Delhi - 110032, Near Shahdara Metro Station",Shahdara Metro Station,72.8568,593.2244358,1862,9305330987,Grocery Stores
+Saral Super Mart (Grocery V..,Delhi,"CG-05,06, Unitech Arcadia, Sector -49, South City 2, Gurgaon - 122018",,44.2146,317.0642746,1995,7913884311,Grocery Stores
+Daily Needs,Delhi,"45,Corner Market, Malviya Nagar, Delhi - 110017",,98.2003,575.3817431,1278,8125003018,Grocery Stores
+Jaideep Mega Store,Delhi,"Shop-154, Mangolpur Kalan, Rohini Sector 2, Delhi - 110085, Opp. - Pocket 4, Near Jain Sweet Wali Gali and Maruti Service Station",Jain Sweet Wali Gali and Maruti Service Station,91.3687,209.6917277,1121,218001170,Grocery Stores
+Jai Maa Kamakhya Kirana Sto..,Delhi,"GARHI CHAUKHANDI, Noida Sector 68, Noida - 201307, Near Yadav Mobile Wali Gali",,5.7937,310.6386243,1213,100469673,Grocery Stores
+Lala Ki Dukaan,Delhi,"Shop No 1, Crossing Republik, Ghaziabad - 201016, Near Sushant Aquapolis",,78.8461,43.06947011,510,755340788,Grocery Stores
+Modern Bazaar,Delhi,"15, Community Center, New Friends Colony, Delhi - 110025, Behind Surya Sofitel Hotel",,73.4238,951.8006239,1533,1128706462,Grocery Stores
+Home Store 12x7,Delhi,"Gf 23, GF-23, Crossing Republik, Noida Extension,, Crossing Republik, Ghaziabad - 201016, Haldiram",aldiram,82.1309,162.6445122,1083,2885366245,Grocery Stores
+SUPER BAKERY GALLERIA MKT,Delhi,"SG-29-30, Galleria Market, DLF City Phase 4, Gurgaon - 122002, Opposite DLF Club, Sector 28","Club, Sector 28",68.0525,468.8375322,1120,6012067120,Grocery Stores
+The Vital Mart,Delhi,"G-1,2 Pankaj Arcade Plot No.5, Pocket-4, Dwarka Sector 11, Delhi - 110075",Delhi - 110075,42.9085,664.8533462,1933,2761312029,Grocery Stores
+Delhyver Food Retail Pvt. L..,Delhi,"G-41, Vikas Cine Mall, G.T Road Shahdara, Shahdara, Delhi - 110032, Near Shahdara Metro Station",Shahdara Metro Station,90.5707,264.1585164,623,787291276,Grocery Stores
+Saral Super Mart (Grocery V..,Delhi,"CG-05,06, Unitech Arcadia, Sector -49, South City 2, Gurgaon - 122018",,74.7487,852.2929277,570,5860563083,Grocery Stores
+Daily Needs,Delhi,"45,Corner Market, Malviya Nagar, Delhi - 110017",,79.2373,404.8168399,1075,8824893902,Grocery Stores
+Jaideep Mega Store,Delhi,"Shop-154, Mangolpur Kalan, Rohini Sector 2, Delhi - 110085, Opp. - Pocket 4, Near Jain Sweet Wali Gali and Maruti Service Station",Jain Sweet Wali Gali and Maruti Service Station,74.4336,710.9366311,826,1515048987,Grocery Stores
+Jai Maa Kamakhya Kirana Sto..,Delhi,"GARHI CHAUKHANDI, Noida Sector 68, Noida - 201307, Near Yadav Mobile Wali Gali",,69.4118,981.3881097,695,2821865719,Grocery Stores
+Lala Ki Dukaan,Delhi,"Shop No 1, Crossing Republik, Ghaziabad - 201016, Near Sushant Aquapolis",,69.5738,271.6107195,694,7710291441,Grocery Stores
+Modern Bazaar,Delhi,"15, Community Center, New Friends Colony, Delhi - 110025, Behind Surya Sofitel Hotel",,13.4018,496.0616329,1365,3649720434,Grocery Stores
+Home Store 12x7,Delhi,"Gf 23, GF-23, Crossing Republik, Noida Extension,, Crossing Republik, Ghaziabad - 201016, Haldiram",aldiram,39.9899,943.3088714,1091,2193323822,Grocery Stores
+SUPER BAKERY GALLERIA MKT,Delhi,"SG-29-30, Galleria Market, DLF City Phase 4, Gurgaon - 122002, Opposite DLF Club, Sector 28","Club, Sector 28",96.3565,512.5664347,864,6114980022,Grocery Stores
+Saradhya Organics,Delhi,"Shop No. 1, Plot No. 2, Golf Avenue, Noida Sector 75, Noida - 201304, Near Metro Station",Near Metro Station,36.915,52.19693038,1696,1423368131,Grocery Stores
+Aggarwal Traders,Delhi,"Shop Number  7259/3, Shakti Nagar, Delhi - 110007, Opp Chadda Bhawan",Chadda Bhawan,84.0046,835.2872667,1538,1554025219,Grocery Stores
+Manish Agencies (Dough&Crea..,Delhi,"D-112, Vikaspuri road, Vikaspuri, Delhi - 110018, Arya Samaj Mandir",,73.7427,268.9166328,736,9570553952,Grocery Stores
+Madhav Store,Delhi,"Madhav Store, Shakti Khand 3 Indirapuram Ghaziabad, Indirapuram, Ghaziabad - 201014, 253 Ground Floor",ound Floor,53.411,667.840013,1571,3603738195,Grocery Stores
+Modern Bazaar,Delhi,"47, North Avenue, Club Road, Punjabi Bagh, Delhi - 110026",,69.1782,340.0627361,501,2969014757,Grocery Stores
+Essential Grocery & More,Delhi,"Gd-28 Ground Floor, Pitampura, Delhi - 110088, Pillar No-365",Pillar No-365,33.0534,825.691065,1228,794098601,Grocery Stores
+Karachy Bakery And Organic ..,Delhi,"Plot No.-4, Khari Market, Noida Sector 141, Noida - 201305, Near Baramda Restaurant",Baramdataurant,1.3782,483.1018799,918,5293059990,Grocery Stores
+Smart Mart,Delhi,"G-2&3, Main Dwarka Expressway, Gurgaon Sector 99, Gurgaon - 122006, Ocus Medley",,89.929,798.3346553,1030,3141241137,Grocery Stores
+Sardaran Di Hatti,Delhi,"FD 8, Pitampura, Delhi - 110034, Near Metro Station Pitampura & Opposite Metro Pillar Number 368",Number 368,37.3295,348.8278772,827,5828869094,Grocery Stores
+Store To Door,Delhi,"Shop No 210, 2nd Floor, Gaur City 1, Noida - 201318, Aarza Square 2",,32.9423,832.1671443,962,2145870135,Grocery Stores
+Saradhya Organics,Delhi,"Shop No. 1, Plot No. 2, Golf Avenue, Noida Sector 75, Noida - 201304, Near Metro Station",Near Metro Station,93.7622,287.9465644,784,6712496141,Grocery Stores
+Aggarwal Traders,Delhi,"Shop Number  7259/3, Shakti Nagar, Delhi - 110007, Opp Chadda Bhawan",Chadda Bhawan,86.2931,176.6690729,1758,4718033071,Grocery Stores
+Manish Agencies (Dough&Crea..,Delhi,"D-112, Vikaspuri road, Vikaspuri, Delhi - 110018, Arya Samaj Mandir",,58.1392,822.4150981,1860,3126832199,Grocery Stores
+Madhav Store,Delhi,"Madhav Store, Shakti Khand 3 Indirapuram Ghaziabad, Indirapuram, Ghaziabad - 201014, 253 Ground Floor",ound Floor,3.7095,130.2945995,809,8322797317,Grocery Stores
+Modern Bazaar,Delhi,"47, North Avenue, Club Road, Punjabi Bagh, Delhi - 110026",,74.6952,185.4830249,565,9745779508,Grocery Stores
+Essential Grocery & More,Delhi,"Gd-28 Ground Floor, Pitampura, Delhi - 110088, Pillar No-365",Pillar No-365,90.7525,281.1019201,1570,1014751652,Grocery Stores
+Karachy Bakery And Organic ..,Delhi,"Plot No.-4, Khari Market, Noida Sector 141, Noida - 201305, Near Baramda Restaurant",Baramdataurant,8.8107,195.4828687,1246,9105251355,Grocery Stores
+Smart Mart,Delhi,"G-2&3, Main Dwarka Expressway, Gurgaon Sector 99, Gurgaon - 122006, Ocus Medley",,41.3701,965.6147257,1001,3757432770,Grocery Stores
+Sardaran Di Hatti,Delhi,"FD 8, Pitampura, Delhi - 110034, Near Metro Station Pitampura & Opposite Metro Pillar Number 368",Number 368,50.8802,494.6452305,588,9809778714,Grocery Stores
+Store To Door,Delhi,"Shop No 210, 2nd Floor, Gaur City 1, Noida - 201318, Aarza Square 2",,75.9339,993.0582993,1716,7522740522,Grocery Stores
+Zawk Mega Mart,Delhi,"B-75, Main Market, New Ashok Nagar, Delhi - 110096, Near Bharti Chowk",,49.2586,58.79272359,1553,5940177045,Grocery Stores
+Food Centre,Delhi,"3965/A Naya Bazar, Opp., Syndicate Bank, Naya Bazar, Delhi - 110006, Near Khari Baoli Whole Sale Market",Baoli Whole Sale Market,59.0386,149.5088248,1372,2978838243,Grocery Stores
+Mehta Enterprises,Delhi,"G-103, Sapphire  83 Mall, Gurgaon Sector 83, Gurgaon - 122004, Near Inox",,0.7445,586.8766239,1146,2296111158,Grocery Stores
+Street Mart   Pharmacy,Delhi,"Shop-2, Hyde Park Crown Market, Sector 78, Noida - 201305, Hyde Park",Hydede Park,26.8836,389.8755343,1564,7852431027,Grocery Stores
+Csd Food Bazaar,Delhi,"336 Kakrolla Housing Complex, Dwarka More, Delhi - 110059, NEAR Metro Pillar No.789",Pillar No.789,14.7942,794.9452531,585,3433289036,Grocery Stores
+Jigyasa Store,Delhi,"Shop Number-1, Shri Radhe Lal Market, Sector 135, Noida - 201304, Near Shivalik Bank",Shivalikik Bank,88.8442,906.8205809,1527,248125357,Grocery Stores
+Dev Super Mart,Delhi,"New Town Heights, Dlf, Gurgaon Sector 86, Gurgaon - 122051",,99.4238,168.7803128,728,2529720521,Grocery Stores
+Big Mart Retail Solutions P..,Delhi,"20 A 1, Old Mehraulii Road, Palam Colony, Delhi - 110045, Raj Nagar Part II",,40.8039,696.5456413,956,2954294935,Grocery Stores
+Balaji Trading Company,Delhi,"RZ-172, Gali No-4, Vaishali Colony, Dabri, Delhi - 110045, Backside Jindal Public School",School,61.9057,412.7389607,1964,5775514739,Grocery Stores
+Earth Mega Mart,Delhi,"Shop No 1, Shivam Plaza Delta 1, Delta 1, Noida - 201310, Near Gate No 1 and Community Center Delta 1",er Delta,40.77,386.6359515,610,5167730935,Grocery Stores
+Jigyasa Store,Delhi,"Shop Number-1, Shri Radhe Lal Market, Sector 135, Noida - 201304, Near Shivalik Bank",Shivalikik Bank,55.6618,359.2738724,851,9031143517,Grocery Stores
+Dev Super Mart,Delhi,"New Town Heights, Dlf, Gurgaon Sector 86, Gurgaon - 122051",,18.4794,448.7889133,1955,3875913216,Grocery Stores
+Big Mart Retail Solutions P..,Delhi,"20 A 1, Old Mehraulii Road, Palam Colony, Delhi - 110045, Raj Nagar Part II",,87.9689,249.9191438,1072,1818686315,Grocery Stores
+Balaji Trading Company,Delhi,"RZ-172, Gali No-4, Vaishali Colony, Dabri, Delhi - 110045, Backside Jindal Public School",School,38.4135,258.3735234,918,2226294928,Grocery Stores
+Earth Mega Mart,Delhi,"Shop No 1, Shivam Plaza Delta 1, Delta 1, Noida - 201310, Near Gate No 1 and Community Center Delta 1",er Delta,89.9442,390.2935983,1802,3500388350,Grocery Stores
+Dhama Clinic,Delhi,"C 46, Noida Sector 34, Noida - 201307, Near City Centre Metro Station",City Centre Metro Station,67.8049,366.9656903,1780,5507142287,Doctor
+Dr. S K Mundhra,Delhi,"B 294, Ground Floor, Pvr Cinema Prashant Vihar Road, Prashant Vihar, Delhi - 110085, Opposite St Margreet School",St Margreet School,68.6898,231.2876083,1078,8726490824,Doctor
+Max Super Speciality Hospit..,Delhi,"108 A, Indraprastha Extension, Delhi - 110092, Near Patparganj",Patparganj,27.3668,593.5691536,559,7508944832,Doctor
+Lotus Health Clinic & Diagn..,Delhi,"Shop No. 145,1st Floor, Sector-16C, Greater Noida West, Gaur City 2, Noida - 201318, Mahagun Mart","Noida - 201318, Mahagun Mart",80.0631,385.8155548,1861,4583180289,Doctor
+Asha Multi Speciality Clini..,Delhi,"Clinic Number C 2, Gurgaon - 122001, Opposite Huda Market",,74.7908,297.3655797,1456,6802766187,Doctor
+Dr. Chandan Roy and Dr. Adi..,Delhi,"E 49A, Ground Floor, Dilshad Garden, Delhi - 110095, Near Greenway Model School, F 188 Dilshad Colony",188 Dilshad Colony,26.1233,971.309441,1801,9065535793,Doctor
+Genhealth Clinic,Delhi,"Shop No -1,V -45, Sector -12, Noida Sector 12, Noida - 201301",,59.5175,405.0244298,1647,8164329168,Doctor
+Dr. Rahul Yakhmi,Delhi,"Healing Tree Hospital /30/1, Shakti Khand 3-indirapuram, Ghaziabad - 201014",,70.9099,695.7480926,1145,7626356022,Doctor
+Sarvodaya Hospital,Delhi,"Plot number-342, Vaishali Sector 4, Ghaziabad - 201010, Near Sector 4 Market",,43.5666,391.1378625,756,2791546065,Doctor
+Manipal Hospital,Delhi,"F Block, Rezangla Road, Palam Vihar, Gurgaon - 122017, Near Ansal Plaza & Gol Chakkar,Sector 23",,88.3738,498.1839119,947,1430655461,Doctor
+Rxpert Clinic,Delhi,"C19, B-7/Extension, Block B 7, Arjun Nagar, Safdarjung Enclave, delhi - 110029, Near Sukmani Hospital",Near Sukmani Hospital,94.6297,471.4426026,1954,3932463042,Doctor
+DR APURVA JHA,Delhi,"House No C1-2809 SECOND FLOOR COUNTRY HOMES, Sushant Lok Phase 1, Gurgaon - 122002, Near Paras Hospital","122002, Near Paras Hospital",29.0238,524.6609201,505,5598107585,Doctor
+Pulse Ent Clinic,Delhi,"169 , Akshardham Appartment, Dwarka Sector 19, Delhi - 110075",Sector 110075,20.7278,956.3680013,903,1923383167,Doctor
+Stethohope Clinic,Delhi,"Shop No -9, Property No C-7 , Sai Chowk, Madhu Vihar-Patparganj, Delhi - 110092, Below Fitnest Gym","110092, Below Fitnest Gym",63.1229,516.3235309,1101,5458522162,Doctor
+Dr Harsh Bardhan,Delhi,"Shop No. 112 First Floor, City Plaza, Greater, Ghaziabad - 201009",,80.1869,443.902741,1474,5977908752,Doctor
+Krishna Niramaya Clinic,Delhi,"H-574, Alpha2, Greater Noida, Noida - 201310, Near Astha Hospital",Asthaospital,32.4134,987.912901,1859,3741132664,Doctor
+Dr Ranjan Kumar,Delhi,"Tower-1, 11th Floor 1102, Panchsheel Pratistha Society, Noida Sector 75, Noida - 201304",,34.7077,239.3277021,564,8169968865,Doctor
+Dr. Mahkar Singh Khari,Delhi,"G-18,Alpha-2, Greater Noida, Gautam Buddha Nagar U.P, Alpha 2-greater Noida, Noida - 201310, Near  By Mother Dairy","greater Noida, Noida - 201310, Near  By Mother Dairy",10.4097,157.6086627,1318,9468276181,Doctor
+Fortis Hospital Noida,Delhi,"B - 22, Noida Sector 62, Noida - 201309",Sector 201309,14.6427,869.4825668,1073,7624360682,Doctor
+Dr. Shahbaz Anees,Delhi,"U12A, Third Floor,, Delhi - 110016, Near- The Bible Church",,6.8731,483.990535,1756,8329963510,Doctor
+Rxpert Clinic,Delhi,"C19, B-7/Extension, Block B 7, Arjun Nagar, Safdarjung Enclave, delhi - 110029, Near Sukmani Hospital",Near Sukmani Hospital,64.7369,128.7860225,940,4897934475,Doctor
+DR APURVA JHA,Delhi,"House No C1-2809 SECOND FLOOR COUNTRY HOMES, Sushant Lok Phase 1, Gurgaon - 122002, Near Paras Hospital","122002, Near Paras Hospital",40.1058,584.4555155,1774,6405468007,Doctor
+Pulse Ent Clinic,Delhi,"169 , Akshardham Appartment, Dwarka Sector 19, Delhi - 110075",Sector 110075,22.3126,236.922731,1311,8278342439,Doctor
+Stethohope Clinic,Delhi,"Shop No -9, Property No C-7 , Sai Chowk, Madhu Vihar-Patparganj, Delhi - 110092, Below Fitnest Gym","110092, Below Fitnest Gym",3.2231,781.9680825,1776,8761100023,Doctor
+Dr Harsh Bardhan,Delhi,"Shop No. 112 First Floor, City Plaza, Greater, Ghaziabad - 201009",,87.8482,791.276488,1528,278284129,Doctor
+Krishna Niramaya Clinic,Delhi,"H-574, Alpha2, Greater Noida, Noida - 201310, Near Astha Hospital",Asthaospital,93.9158,372.0049224,1251,2958940542,Doctor
+Dr Ranjan Kumar,Delhi,"Tower-1, 11th Floor 1102, Panchsheel Pratistha Society, Noida Sector 75, Noida - 201304",,92.2187,838.2941656,1122,379058338,Doctor
+Dr. Mahkar Singh Khari,Delhi,"G-18,Alpha-2, Greater Noida, Gautam Buddha Nagar U.P, Alpha 2-greater Noida, Noida - 201310, Near  By Mother Dairy","greater Noida, Noida - 201310, Near  By Mother Dairy",60.765,756.2462324,957,6586465476,Doctor
+Fortis Hospital Noida,Delhi,"B - 22, Noida Sector 62, Noida - 201309",Sector 201309,61.9767,894.0433165,1131,9335917902,Doctor
+Dr. Shahbaz Anees,Delhi,"U12A, Third Floor,, Delhi - 110016, Near- The Bible Church",,20.0509,246.0193258,1324,5566647938,Doctor
+Dr. Anupam Verma,Delhi,"B 8/205, Rohini Sector 3, Delhi - 110085",,71.0765,448.2667596,1859,7704295477,Doctor
+Leafline Clinical Service P..,Delhi,"B-4, Prahlad Market,, Karol Bagh, Delhi - 110005",,80.7016,842.7047399,1151,3292546707,Doctor
+Siyaram Hospital,Delhi,"C 22 C Nehru Ground, NIT 1, Faridabad NIT, Faridabad - 121001, Near Bus Stand and Bikaner Sweets",weets,34.652,315.4545529,963,4430668130,Doctor
+RR Physician & Diabetic Cli..,Delhi,"14, Plot 9, Gardenia Gateway, Sector75, Noida Sector 75, Noida - 201304",,82.9597,528.6541491,1615,7823279506,Doctor
+In House Diagnostic and Sur..,Delhi,"Main DSC Road Barola, K.D.S.Tower, Pillar No.28, Barola-Noida Sector 49, Noida - 201304",Sector 201304,7.8761,139.092692,1445,5519250290,Doctor
+Manipal Hospital,Delhi,"Dwarka Sector 6, Delhi - 110075, Near Palam Vihar,  Adjoining MTNL Building,",,94.2991,816.8146166,1239,6049967223,Doctor
+Max Super Speciality Hospit..,Delhi,"W-3, Vaishali Sector 1, Ghaziabad - 201010, Near Radisson Hotel, Dabur Chowk",Daburr Chowk,98.4862,296.7142947,1688,9249855379,Doctor
+Dr. Ashok Grover,Delhi,"B-16, Madhuban Enclave, Delhi - 110092, Near Madhuban Park",,73.5024,977.0176207,528,5045384711,Doctor
+Apollo Cradle & Childrens H..,Delhi,"Nh27 , Pocket 7, Nsg Chowk, Greater, Pocket 7, Noida - 201310, Opposite Mitra Enclave",,39.0461,116.3753729,649,527355483,Doctor
+Medisure Clinic And Endosco..,Delhi,"B-2/28A, Yamuna Vihar, Main Wazirabad Road, Yamuna Vihar, Delhi - 110053, Bhajanpura Petrol Pump",Petrol Pump,86.2599,141.4079656,984,7775311413,Doctor
+Dr. Anupam Verma,Delhi,"B 8/205, Rohini Sector 3, Delhi - 110085",,81.157,476.3047963,1321,1779208654,Doctor
+Leafline Clinical Service P..,Delhi,"B-4, Prahlad Market,, Karol Bagh, Delhi - 110005",,17.7128,466.7813306,574,1933390338,Doctor
+Siyaram Hospital,Delhi,"C 22 C Nehru Ground, NIT 1, Faridabad NIT, Faridabad - 121001, Near Bus Stand and Bikaner Sweets",weets,91.4812,961.7533125,1201,9294153237,Doctor
+RR Physician & Diabetic Cli..,Delhi,"14, Plot 9, Gardenia Gateway, Sector75, Noida Sector 75, Noida - 201304",,28.7429,693.8094948,1552,825119963,Doctor
+In House Diagnostic and Sur..,Delhi,"Main DSC Road Barola, K.D.S.Tower, Pillar No.28, Barola-Noida Sector 49, Noida - 201304",Sector 201304,91.3161,680.2405784,1630,6978513909,Doctor
+Manipal Hospital,Delhi,"Dwarka Sector 6, Delhi - 110075, Near Palam Vihar,  Adjoining MTNL Building,",,85.2644,827.8850422,916,7184588014,Doctor
+Max Super Speciality Hospit..,Delhi,"W-3, Vaishali Sector 1, Ghaziabad - 201010, Near Radisson Hotel, Dabur Chowk",Daburr Chowk,7.9027,522.9165822,927,9237276152,Doctor
+Dr. Ashok Grover,Delhi,"B-16, Madhuban Enclave, Delhi - 110092, Near Madhuban Park",,2.1168,890.7920841,1682,9544615145,Doctor
+Apollo Cradle & Childrens H..,Delhi,"Nh27 , Pocket 7, Nsg Chowk, Greater, Pocket 7, Noida - 201310, Opposite Mitra Enclave",,16.0132,650.2212045,1546,7860734689,Doctor
+Medisure Clinic And Endosco..,Delhi,"B-2/28A, Yamuna Vihar, Main Wazirabad Road, Yamuna Vihar, Delhi - 110053, Bhajanpura Petrol Pump",Petrol Pump,36.3228,122.4147719,1424,2427633144,Doctor
+Max Super Speciality Hospit..,Delhi,"W-3, Vaishali Sector 1, Ghaziabad - 201010, Near Radisson Hotel, Dabur Chowk",Daburr Chowk,70.8233,329.3989292,1772,9968356626,Doctor
+Dr. Ashok Grover,Delhi,"B-16, Madhuban Enclave, Delhi - 110092, Near Madhuban Park",,82.1615,990.2608295,607,734898259,Doctor
+Apollo Cradle & Childrens H..,Delhi,"Nh27 , Pocket 7, Nsg Chowk, Greater, Pocket 7, Noida - 201310, Opposite Mitra Enclave",,75.9068,139.2644197,1816,3246950953,Doctor
+Medisure Clinic And Endosco..,Delhi,"B-2/28A, Yamuna Vihar, Main Wazirabad Road, Yamuna Vihar, Delhi - 110053, Bhajanpura Petrol Pump",Petrol Pump,17.0991,487.6199018,1903,6609378805,Doctor
+Onecare Diabetes Clinic,Bangalore,"Magnus Diagnostics, 81, 80 Feet Road,, New Friends Colony,, Bangalore - 560034, Magnus Diagnostic Center",Center,31.7863,795.488169,563,2165604672,Doctor
+Narayana Health City,Bangalore,"Hosur Road, Anekal Taluk, Bommasandra Industrial Area, Bangalore - 560099",,59.2274,580.4226977,1620,2217593061,Doctor
+Fortis Hospital,Bangalore,"No.14, Cunningham Road, Bangalore - 560052, Near Sigma Mall",,49.0091,484.0517586,942,3605296592,Doctor
+Care On Call,Bangalore,"No 22, Tamil Sangam Street, Aga Abbas Ali Road, Bangalore - 560042, Next Sobha Diamond Apartment",tment,87.8998,246.6106812,1953,2275625773,Doctor
+Jyotsna Hospital,Bangalore,"No. 09, TC Palya Main Road, Kowdenahalli, Akshay Nagar, Ramamurthy Nagar, Bangalore - 560016, Opposite to Vishal Mega Mart",,53.1153,876.3674773,1595,2687865585,Doctor
+Lotus Diagnostic Centre,Bangalore,"No 236, 18th Main, Koramangala 6th Block, Bangalore - 560095",,37.5868,124.0323316,1996,4330437312,Doctor
+Diyaanvi Multi Speciality C..,Bangalore,"No 9 Akul Arcade, Uttarahalli Main Road, Chikkalsandra, Bangalore - 560061, Above Pizza Hut",,41.7803,672.9169831,1203,4997904224,Doctor
+Life Care Hospital (Lch),Bangalore,"No.23/24, 20th Main, Gangothri Circle, Btm Layout 1st Stage, Bangalore - 560029, Near Gangothri Bar and Restaurant",Near Gangothri Bar and Restaurant,7.0745,419.955228,933,5244356092,Doctor
+K Dwarakanaths Clinic,Bangalore,"No 476/29,Smrethi, 19th Main,34th Cross, Jayanagar 4th T Block, Bangalore - 560041, Next MLA Office",,20.1589,771.027466,1558,8897754626,Doctor
+Sivayogi Hospitals and Rese..,Bangalore,"No 3  K.N. ARCADE, 3rd Phase , 60 Feet Main Riad Avalahalli, Banashankari 3rd Stage, Bangalore - 560085, Near Avalahalli BDA Park","3rd Stage, Bangalore - 560085, Near Avalahalli BDA Park",86.0639,318.3918608,1589,6990340604,Doctor
+Onecare Diabetes Clinic,Bangalore,"227, Ground Floor, Greenglen Layout Off, Outer Ring Road, Bangalore - 560103, Opposite to Sobha Quartz",Sobha Quartz,7.1379,2.867218444,1093,6469299822,Doctor
+Acculab,Bangalore,"No 121 Mathrushree Building 1st Floor, 2nd Stage Mahalakshmipuram, Geleyarabalaga Circle, Bangalore - 560086, Opposite Janata Seva Co Operative Bank","angalore - 560086, Opposite Janata Seva Co Operative Bank",72.9597,370.1178715,1649,475158964,Doctor
+Diawell Clinic,Bangalore,"No 533/1, 15th Main, Dolloars Colony, RMV Extension 2nd Stage, Bangalore - 560094, Near Chikkamaranahalli",Near Chikkamaranahalli,15.2515,435.2186816,957,9773273257,Doctor
+Sagar Clinic And Daycare,Bangalore,"No 47/26/27, 12th Main, Puttenahalli Main Road, Jp Nagar 7th Phase, Bangalore - 560078, Near Petrol Bank","Bangalore - 560078, Near Petrol Bank",65.0653,98.9865874,1644,166135466,Doctor
+Valens Hospitals,Bangalore,"No 33-34 New Dwarka Nagar, Bengaluru, Bagalur Road, Yelahanka, Bangalore - 560064, Near Dwarka Nagar Bus Stop",Dwarka Nagar Bus Stop,83.0877,52.70372573,1044,4026369531,Doctor
+Shraddha Healthcare And Nur..,Bangalore,"No 3,4 & 5,Patients First, 7th Main Road,1st Block, Koramangala, Bangalore - 560034, Near Wipro Park",,78.2259,80.9992186,834,2594579669,Doctor
+Manipal North Side Hospital,Bangalore,"No. 71, 11th Main, Malleswaram, Bangalore - 560003, Opposite Railway Station",RailwayStation,52.0015,416.0372875,1186,4406373663,Doctor
+JP Multispeciality Health C..,Bangalore,"No-5, SRS Complex, 80 Ft Road , NGEF Layout, Nagarbhavi, Bangalore - 560072, Opposite to GM Hospital",to GM Hospital,55.72,151.2740112,1880,589608004,Doctor
+Medisync Network Of Hospita..,Bangalore,"No 539/49, 9th Cross Road, S Kariyappa Road, WKP Road, Jayanagar 7th Block, Bangalore - 560070","Block, Bangalore - 560070",8.0149,291.5156877,1590,6003103657,Doctor
+Apollo Spectra Hospitals,Bangalore,"No 143, 5th Cross, Koramangala, Bangalore - 560034, Near Koramangaoa Area",Koramangaoaoa Area,19.4197,634.858026,1306,5239092077,Doctor
+Onecare Diabetes Clinic,Bangalore,"227, Ground Floor, Greenglen Layout Off, Outer Ring Road, Bangalore - 560103, Opposite to Sobha Quartz",Sobha Quartz,54.1089,913.8864511,1044,2905872789,Doctor
+Acculab,Bangalore,"No 121 Mathrushree Building 1st Floor, 2nd Stage Mahalakshmipuram, Geleyarabalaga Circle, Bangalore - 560086, Opposite Janata Seva Co Operative Bank","angalore - 560086, Opposite Janata Seva Co Operative Bank",12.4277,563.5180318,1025,1792472737,Doctor
+Diawell Clinic,Bangalore,"No 533/1, 15th Main, Dolloars Colony, RMV Extension 2nd Stage, Bangalore - 560094, Near Chikkamaranahalli",Near Chikkamaranahalli,89.5557,672.552287,626,5056698315,Doctor
+Sagar Clinic And Daycare,Bangalore,"No 47/26/27, 12th Main, Puttenahalli Main Road, Jp Nagar 7th Phase, Bangalore - 560078, Near Petrol Bank","Bangalore - 560078, Near Petrol Bank",71.2544,905.822428,1228,2209589276,Doctor
+Valens Hospitals,Bangalore,"No 33-34 New Dwarka Nagar, Bengaluru, Bagalur Road, Yelahanka, Bangalore - 560064, Near Dwarka Nagar Bus Stop",Dwarka Nagar Bus Stop,48.7089,562.7739875,512,4999837911,Doctor
+Shraddha Healthcare And Nur..,Bangalore,"No 3,4 & 5,Patients First, 7th Main Road,1st Block, Koramangala, Bangalore - 560034, Near Wipro Park",,37.3419,917.6588607,1734,840244838,Doctor
+Manipal North Side Hospital,Bangalore,"No. 71, 11th Main, Malleswaram, Bangalore - 560003, Opposite Railway Station",RailwayStation,9.024,731.2252885,1319,2674240197,Doctor
+JP Multispeciality Health C..,Bangalore,"No-5, SRS Complex, 80 Ft Road , NGEF Layout, Nagarbhavi, Bangalore - 560072, Opposite to GM Hospital",to GM Hospital,96.4936,224.8846127,795,7078702329,Doctor
+Medisync Network Of Hospita..,Bangalore,"No 539/49, 9th Cross Road, S Kariyappa Road, WKP Road, Jayanagar 7th Block, Bangalore - 560070","Block, Bangalore - 560070",69.8919,828.3472386,1038,2502799803,Doctor
+Apollo Spectra Hospitals,Bangalore,"No 143, 5th Cross, Koramangala, Bangalore - 560034, Near Koramangaoa Area",Koramangaoaoa Area,11.2271,235.4103949,927,2647232501,Doctor
+Sri Gouris Dental and Medic..,Bangalore,"No.121/B, 1st Floor, 27th Cross, Jayanagar, Bangalore - 560011, Near Bajaj Showroom",,75.8348,151.9491186,1190,8712032309,Doctor
+Sri Sagar Clinic,Bangalore,"No.510/1, Hase Karaga Road, Kengeri, Bangalore - 560060, Near Rajkumar Circle",Rajkumar Circle,2.7591,391.1874255,1322,3705687704,Doctor
+Varalakshmi Hospital,Bangalore,"No.38/2, 2nd Main Road, Madivala New Extension, Madiwala, Bangalore - 560068, Behind Ayyappa Temple",Ayyappa Temple,81.2688,266.4169344,1721,5856676937,Doctor
+International Multispeciali..,Bangalore,"L166,Ground Floor, Outer Ring Road, Sector 6, Hsr Layout, Bangalore - 560102, Near Focus Diagnostics",Focus Diagnostics,22.5733,192.5994872,943,6153944000,Doctor
+Varsha Health Care Centre,Bangalore,"No 1914(55), 28th C Main Road, Jayanagar 9th Block, Bangalore - 560069, Near S L V Raggigudda Restaurant",da Restaurant,29.1192,860.3132346,760,988873284,Doctor
+Positive Health Care Centre,Bangalore,"No-45/46,1st Floor,Ajantha Avenue, Puttenahalli Main Road,Nrar Brigade Millenium Signal, Jp Nagar 7th Phase, Bangalore - 560078, Above Airtel Office",,98.0061,495.442552,635,6824346934,Doctor
+Sai Lakshya Health Care,Bangalore,"No 27/6/1 First Floor , Bnr Tower, Begur Koppa Main Road, Koppa Begur Road-Yellanahalli, Bangalore - 560068, OPP to MDVR Apartment","Begur Road-Yellanahalli, Bangalore - 560068, OPP to MDVR Apartment",50.2269,269.3650812,655,2162806567,Doctor
+Family Clinic And Diabetic ..,Bangalore,"No 3,Agara Building, 24th Main Road, Hsr Layout, Bangalore - 560102, Near Hanuman Statue",Hanuman Statue,53.8241,970.2612513,1745,7481404771,Doctor
+Green Plus Clinic and Diagn..,Bangalore,"No46,1st Floor, Double Road,Beml Layout, Rajarajeshwari Nagar, Bangalore - 560098, Near Shanmuga  Temple",Shanmuga Temple,22.5381,350.7803317,1801,6547899002,Doctor
+Kamadhenu Swasthya Kendra,Bangalore,"No 6B,Kote NCMR Building, Karthik Nagar-Marathahalli, Bangalore - 560037",,74.4939,230.0137655,1043,1287188701,Doctor
+Sri Gouris Dental and Medic..,Bangalore,"No.121/B, 1st Floor, 27th Cross, Jayanagar, Bangalore - 560011, Near Bajaj Showroom",,96.5663,536.2749172,1144,3292997862,Doctor
+Sri Sagar Clinic,Bangalore,"No.510/1, Hase Karaga Road, Kengeri, Bangalore - 560060, Near Rajkumar Circle",Rajkumar Circle,97.2891,864.005856,1427,9905946120,Doctor
+Varalakshmi Hospital,Bangalore,"No.38/2, 2nd Main Road, Madivala New Extension, Madiwala, Bangalore - 560068, Behind Ayyappa Temple",Ayyappa Temple,72.3602,143.6727263,532,4877183608,Doctor
+International Multispeciali..,Bangalore,"L166,Ground Floor, Outer Ring Road, Sector 6, Hsr Layout, Bangalore - 560102, Near Focus Diagnostics",Focus Diagnostics,60.5798,517.8059428,1392,3032869118,Doctor
+Varsha Health Care Centre,Bangalore,"No 1914(55), 28th C Main Road, Jayanagar 9th Block, Bangalore - 560069, Near S L V Raggigudda Restaurant",da Restaurant,68.8777,84.24066957,1634,5897818216,Doctor
+Positive Health Care Centre,Bangalore,"No-45/46,1st Floor,Ajantha Avenue, Puttenahalli Main Road,Nrar Brigade Millenium Signal, Jp Nagar 7th Phase, Bangalore - 560078, Above Airtel Office",,27.687,460.1062468,901,9579100277,Doctor
+Sai Lakshya Health Care,Bangalore,"No 27/6/1 First Floor , Bnr Tower, Begur Koppa Main Road, Koppa Begur Road-Yellanahalli, Bangalore - 560068, OPP to MDVR Apartment","Begur Road-Yellanahalli, Bangalore - 560068, OPP to MDVR Apartment",72.6113,541.9944473,1538,4644853335,Doctor
+Family Clinic And Diabetic ..,Bangalore,"No 3,Agara Building, 24th Main Road, Hsr Layout, Bangalore - 560102, Near Hanuman Statue",Hanuman Statue,31.7606,176.2161103,1495,5032350538,Doctor
+Green Plus Clinic and Diagn..,Bangalore,"No46,1st Floor, Double Road,Beml Layout, Rajarajeshwari Nagar, Bangalore - 560098, Near Shanmuga  Temple",Shanmuga Temple,40.0716,967.3357404,1587,5561734984,Doctor
+Kamadhenu Swasthya Kendra,Bangalore,"No 6B,Kote NCMR Building, Karthik Nagar-Marathahalli, Bangalore - 560037",,31.0151,383.8126033,1822,843868466,Doctor
+Sahasra Hospitals,Bangalore,"NO.184, MKS TOWERS, VARTHUR MAIN ROAD, Bangalore - 560087, BRIGADE CORNERSTONE UTOPIA APARTMENT",MENT,70.5211,474.4228316,1833,5743348921,Doctor
+Shree Vaishnavi Health Cent..,Bangalore,"No 02, Doddabidarakallu Main Road, DODDABIDARAKALLU, Bangalore - 560073, Opp SB Medicals Near Arch",ar Arch,14.125,284.7890154,1939,2084680583,Doctor
+Lotus Diagnostic Centre,Bangalore,"No.493, CMH Road, Indiranagar, Bangalore - 560038, Near to ICICI Bank",,74.0429,809.7990281,1974,2975904753,Doctor
+Hosmat Hospital,Bangalore,"No 1 Hennur Junction, Grace Town, Kalyan Nagar, Bangalore - 560043",,1.8453,52.30228364,1041,9946694944,Doctor
+Shiva Prasad Health Centre,Bangalore,"No 475/465 Narayanappaswamappa Building, Bazar Road, Yelahanka Old Town, Bangalore - 560064, Opp Bbmp Office",", Opp Bbmp Office",46.3341,871.0075563,823,4405098922,Doctor
+Indianova Heart Center And ..,Bangalore,"No.323, Old Madras Road,NH 75, Old Extension, Krishnarajapuram, Bangalore - 560036, Next to Adiswar Showmroom",to Adiswar Showmroom,77.1159,81.18203374,1526,7219504824,Doctor
+Prashanth Hospital,Bangalore,"No.90/D, Hosur Main Road, Bommanahalli, Bangalore - 560068",,48.2743,80.51205508,1279,1633215210,Doctor
+Sreenagar Nursing Home,Bangalore,"No. 855/56, Sree Ramanjeneya Main Road, Srinagar-Banashankari 1st Stage, Bangalore - 560050, Next To Srinagar Bus Stop",", Next To Srinagar Bus Stop",88.1372,83.76846016,1944,2459630777,Doctor
+Sri Sai Ram Hospitals,Bangalore,"No. 6, J C Industrial Area, Yellechenahallli Post, Kanakapura Road, Bangalore - 560062, Near Metro",Metro,90.8738,713.8290304,1629,1740869465,Doctor
+Manipal Hospital,Bangalore,"No 45/1, 45th Cross, Jayanagar 9th Block, Bangalore - 560069, Opposite Bangalore Central",,10.2109,887.5356862,603,2848209690,Doctor
+Prashanth Hospital,Bangalore,"No.90/D, Hosur Main Road, Bommanahalli, Bangalore - 560068",,27.9152,606.8251929,941,8500963726,Doctor
+Sreenagar Nursing Home,Bangalore,"No. 855/56, Sree Ramanjeneya Main Road, Srinagar-Banashankari 1st Stage, Bangalore - 560050, Next To Srinagar Bus Stop",", Next To Srinagar Bus Stop",42.2829,452.0720484,989,2044140385,Doctor
+Sri Sai Ram Hospitals,Bangalore,"No. 6, J C Industrial Area, Yellechenahallli Post, Kanakapura Road, Bangalore - 560062, Near Metro",Metro,57.6476,513.0179632,749,1909652739,Doctor
+Manipal Hospital,Bangalore,"No 45/1, 45th Cross, Jayanagar 9th Block, Bangalore - 560069, Opposite Bangalore Central",,13.8769,514.6300556,1043,6152396704,Doctor
+Health Plus Clinic,Mumbai,"#Shop No.9, Noopur Society, Lokpuram ,Landmark- Opp. Hiranandani Meadows, Lokpuram Society-Thane West, Thane - 400610",,36.3569,126.3767316,757,8337460004,Doctor
+Dr. Nabar Dilip Clinic,Mumbai,"A1/1 Mithanagar Muncipal Colony, M G Road, Goregaon West, Mumbai - 400062, Near St. Thomas Church",Church,98.8804,64.34693724,1251,8479723296,Doctor
+Vedant Multispeciality Hosp..,Mumbai,"1st Floor, Safal Shopping Centre, Goregaon East, Mumbai - 400065, NNP, Opposite Filmcity Road",,80.8197,52.78977862,1669,9946621836,Doctor
+Dr. Pradeep Tiwari,Mumbai,"Nerve and More Clinic, Shop No 4, Shell Colony Road, Shell Colony-Sahakar Nagar-Chembur East, Mumbai - 400071, Near Bendre Chowk, Opposite Tilak Nagar Station","Nagar-Chembur East, Mumbai - 400071, Near Bendre Chowk, Opposite Tilak Nagar Station",37.1624,544.7793112,1139,1642343898,Doctor
+Yash Clinic,Mumbai,"Shop No 5, Sajan Smruti Building, Dr Nemade Lane, Dombivli West, Thane - 421202, Near Vande Mataram School, Telkos Wadi","Near Vande Mataram School, Telkos Wadi",93.2778,921.7734626,866,5793474115,Doctor
+Fortis Hiranandani Hospital,Mumbai,"Mini Seashore Road, Vashi, Navi Mumbai - 400703, Sector 10/A",,37.1373,937.9960709,1851,3530179637,Doctor
+Dr. P P Nagarkar,Mumbai,"Shop No 6, Ameya Co Op Housing Society, Sane Guruji Road, Lal Baug, Mumbai - 400012, Opposite Ganesh Talkies",,7.3855,325.9065418,1220,6515779695,Doctor
+Human Touch Clinic,Mumbai,"204 205, Marathon Chambers, P K Road, Mulund West, Mumbai - 400080, Panch Rasta, Above Manoranjan Store",Above Manoranjan Store,81.2424,266.0929425,966,4128052016,Doctor
+Dr. GANESH RANE MD PHYSICIA..,Mumbai,"Evershin Hospital Aster Building  Ground Floor Vrindavan Complex, Evershine Road, Vasai East, Palghar - 401208, Near Hdfc Bank","t, Palghar - 401208, Near Hdfc Bank",74.4126,430.1917271,2000,3305437941,Doctor
+Chaphekar Hospital,Mumbai,"Ashok Nagar CHS, Ambadi Road, Vasai West, Palghar - 401202, Opposite Carmel Classes,",,4.5554,128.2027111,1174,2025948334,Doctor
+Dr Manisha Bhatt,Mumbai,"502, Skyline Status, M G Road, Ghatkopar East, Mumbai - 400077, Opp Pooja Hotel",,95.2272,592.7141907,1097,2429268317,Doctor
+Dr. Arundhati Barua,Mumbai,"Shop No 1/5 PMGP Colony,, Andheri East, Mumbai - 400093, Near Poonam Nagar",Poonamm Nagar,13.5664,322.4187559,1633,767583913,Doctor
+Dr Shashi Chandan Singh,Mumbai,"B Wing 109/110 Everest Tower, Santoshi Mata Mandir Road, Kalyan West, Kalyan - 421301, Opposite Lourdes School, Opp Maxi Ground","421301, Opposite Lourdes School, Opp Maxi Ground",86.5022,550.4312735,548,4728525778,Doctor
+Metropol Multispeciality Ho..,Mumbai,"Metropol Multispeciality Hospital Llp,Ground ,2nd & 4th Floor, Soham Plaza North East,Manpada Junction,Ghodbunder Road, Thane West, Thane - 400607","Manpada Junction,Ghodbunder Road, Thane West, Thane - 400607",66.5236,949.9584687,606,7311793684,Doctor
+Manokhoj Clinic,Mumbai,"Cabin D, Ground Floor, Narayan Ashram, 17th Road, Chembur, Mumbai - 400071",,73.134,191.485355,1140,8693897838,Doctor
+Ananya-Diabetes and Footcar..,Mumbai,"Shweta Apartment ,Chintan  Co-op Housing Society Ltd, Kalyan Murbad Road, Kalyan West, Kalyan - 421301, Opp. Kalyan Janta Shahkari Bank,Kalyan West",,99.8042,729.8823155,1697,3438428087,Doctor
+Dr Salaah Qureshi,Mumbai,"Qure Clinic, Sai Apartments, Shop No 2, Seven Bungalows, Andheri West, Mumbai - 400053, Bon Bon Lane, Juhu Versova Link Road","Bon Bon Lane, Juhu Versova Link Road",18.5972,527.1725532,806,9390413176,Doctor
+Shree Ashirwad Hospital,Mumbai,"Ground Floor Sai Angan Apartment, Samarth Chowk Ganesh Nagar, Badlapur, Thane - 421503, Near Aditi Hotel",r Aditi Hotel,87.0228,258.7663322,1060,5442617773,Doctor
+Alcuris,Mumbai,"Shop No 1 Samant Heritage, Manpada Cross Road, Dombivli East, Thane - 421201, Near Icon Hospital",pital,98.8632,892.4481872,921,1241319801,Doctor
+Dr. Raihan Motorwala (MD),Mumbai,"C/o Shalyak Multispeciality Hospital, Building No 2, S K Apartment, 10, Dalwai Compound, Gumpha Road, Jogeshwari East, Mumbai - 400060, Near Jogeshwari Police Station","Compound, Gumpha Road, Jogeshwari East, Mumbai - 400060, Near Jogeshwari Police Station",69.4236,22.27186178,1516,4426388509,Doctor
+Dr Manisha Bhatt,Mumbai,"502, Skyline Status, M G Road, Ghatkopar East, Mumbai - 400077, Opp Pooja Hotel",,76.4205,734.1729894,1341,1696207522,Doctor
+Dr. Arundhati Barua,Mumbai,"Shop No 1/5 PMGP Colony,, Andheri East, Mumbai - 400093, Near Poonam Nagar",Poonamm Nagar,16.1671,493.6356105,754,3811080515,Doctor
+Dr Shashi Chandan Singh,Mumbai,"B Wing 109/110 Everest Tower, Santoshi Mata Mandir Road, Kalyan West, Kalyan - 421301, Opposite Lourdes School, Opp Maxi Ground","421301, Opposite Lourdes School, Opp Maxi Ground",98.5346,827.2804444,1023,1676843281,Doctor
+Metropol Multispeciality Ho..,Mumbai,"Metropol Multispeciality Hospital Llp,Ground ,2nd & 4th Floor, Soham Plaza North East,Manpada Junction,Ghodbunder Road, Thane West, Thane - 400607","Manpada Junction,Ghodbunder Road, Thane West, Thane - 400607",81.1579,566.5444743,1200,8450815800,Doctor
+Manokhoj Clinic,Mumbai,"Cabin D, Ground Floor, Narayan Ashram, 17th Road, Chembur, Mumbai - 400071",,81.4973,184.3451856,1173,2171107090,Doctor
+Ananya-Diabetes and Footcar..,Mumbai,"Shweta Apartment ,Chintan  Co-op Housing Society Ltd, Kalyan Murbad Road, Kalyan West, Kalyan - 421301, Opp. Kalyan Janta Shahkari Bank,Kalyan West",,86.5845,728.7695616,781,7086193926,Doctor
+Dr Salaah Qureshi,Mumbai,"Qure Clinic, Sai Apartments, Shop No 2, Seven Bungalows, Andheri West, Mumbai - 400053, Bon Bon Lane, Juhu Versova Link Road","Bon Bon Lane, Juhu Versova Link Road",57.0701,458.2644695,948,4755753097,Doctor
+Shree Ashirwad Hospital,Mumbai,"Ground Floor Sai Angan Apartment, Samarth Chowk Ganesh Nagar, Badlapur, Thane - 421503, Near Aditi Hotel",r Aditi Hotel,53.5053,15.07439674,1373,9742485505,Doctor
+Alcuris,Mumbai,"Shop No 1 Samant Heritage, Manpada Cross Road, Dombivli East, Thane - 421201, Near Icon Hospital",pital,26.1422,605.6897853,587,532347197,Doctor
+Dr. Raihan Motorwala (MD),Mumbai,"C/o Shalyak Multispeciality Hospital, Building No 2, S K Apartment, 10, Dalwai Compound, Gumpha Road, Jogeshwari East, Mumbai - 400060, Near Jogeshwari Police Station","Compound, Gumpha Road, Jogeshwari East, Mumbai - 400060, Near Jogeshwari Police Station",42.4607,715.6296613,958,8702616821,Doctor
+Meera Clinic,Mumbai,"Newali Naka, Malangar Road, Mangrul-Kalyan East, Thane - 421306, Badlapur Highway ,",,33.2598,341.3545717,1804,8750038517,Doctor
+Shree Ganesh Polyclinic,Mumbai,"Shop No 3, Ram Janki Building, Ground Floor, Phadke Road, Dombivli East, Thane - 421201, Next to Ganpati Mandir, Near Railway Station","421201, Next to Ganpati Mandir, Near Railway Station",39.552,840.1579622,1605,7735131665,Doctor
+Sugar Care,Mumbai,"Subham Lavesta A Wing 202/203 Pant Nagar, Ghatkopar East, Mumbai - 400075, Near Axis Bank",Axis Bank,93.3062,982.7688841,1982,2388235561,Doctor
+Riddhi Siddihi Poly Clinic,Mumbai,"Shanti Nath Darshan , Shop No 13,, Mira Road, Thane - 401107, Opp to Balaji Hotel",,76.0273,69.40245339,1823,4333462904,Doctor
+SIDDHANT DIABETES & HYPERTE..,Mumbai,"F1/B-2, F Type Bldg, SECTOR 9, Vashi, Navi Mumbai - 400703, NEAR SHABRI RESTAURANT",SHABRI RESTAURANT,29.1497,520.248672,1280,6793816603,Doctor
+Dr B P Chavan,Mumbai,"H S Memorial Polyclinic & Diagnostic Centre, G/A Ground Flr Utkarsh CHS Ltd , M A Road, Andheri West, Mumbai - 400058, Opposite Andheri Railway Station, Next to BATA Showroom,","Ltd , M A Road, Andheri West, Mumbai - 400058, Opposite Andheri Railway Station, Next to BATA Showroom,",42.0129,769.0664765,910,269319851,Doctor
+V-Care Polyclinic & Diagnos..,Mumbai,"Shop No 1 Saan Villa, Evershine Signal, Gokhiware-Vasai East, Palghar - 401208, Near South Indian Bank",Indian Bank,60.1125,899.3891522,596,8239767023,Doctor
+Jasmin Day Care Clinic & Ho..,Mumbai,"Bunglow No. 4,Ashrad Apartment, Mujahid Road, Mumbra, Thane - 400612, Near Papaji School",,25.1629,107.9734421,922,6394053159,Doctor
+Dr. Madhavi Thoke (Essence ..,Mumbai,"1101-1102, The Pacific, Sector 13, Kharghar, Kharghar, Navi Mumbai - 410210, Near Shilp Chowk",Chowk,76.7704,511.9322437,1347,900870794,Doctor
+Dr Ambika Gautam,Mumbai,"AAROGYA MEDICAL CENTRE, 1st FLOOR SUYASH SHOPPING CENTRE, Goregaon East, Mumbai - 400065, Opposite to NNP POST OFFICE GOREGAON EAST",pposite to NNP POST OFFICE GOREGAON EAST,62.9474,275.4594567,1655,5713628641,Doctor
+Meera Clinic,Mumbai,"Newali Naka, Malangar Road, Mangrul-Kalyan East, Thane - 421306, Badlapur Highway ,",,41.244,319.2528424,1736,1163166996,Doctor
+Shree Ganesh Polyclinic,Mumbai,"Shop No 3, Ram Janki Building, Ground Floor, Phadke Road, Dombivli East, Thane - 421201, Next to Ganpati Mandir, Near Railway Station","421201, Next to Ganpati Mandir, Near Railway Station",28.2075,359.245862,1894,9904645323,Doctor
+Sugar Care,Mumbai,"Subham Lavesta A Wing 202/203 Pant Nagar, Ghatkopar East, Mumbai - 400075, Near Axis Bank",Axis Bank,13.6999,996.3580511,1704,2315717338,Doctor
+Riddhi Siddihi Poly Clinic,Mumbai,"Shanti Nath Darshan , Shop No 13,, Mira Road, Thane - 401107, Opp to Balaji Hotel",,65.9213,109.0797582,813,6126155922,Doctor
+SIDDHANT DIABETES & HYPERTE..,Mumbai,"F1/B-2, F Type Bldg, SECTOR 9, Vashi, Navi Mumbai - 400703, NEAR SHABRI RESTAURANT",SHABRI RESTAURANT,69.7911,919.0723899,1401,1208677703,Doctor
+Dr B P Chavan,Mumbai,"H S Memorial Polyclinic & Diagnostic Centre, G/A Ground Flr Utkarsh CHS Ltd , M A Road, Andheri West, Mumbai - 400058, Opposite Andheri Railway Station, Next to BATA Showroom,","Ltd , M A Road, Andheri West, Mumbai - 400058, Opposite Andheri Railway Station, Next to BATA Showroom,",82.0861,538.6961068,1395,8107164286,Doctor
+V-Care Polyclinic & Diagnos..,Mumbai,"Shop No 1 Saan Villa, Evershine Signal, Gokhiware-Vasai East, Palghar - 401208, Near South Indian Bank",Indian Bank,38.3964,658.7426955,1058,5814117828,Doctor
+Jasmin Day Care Clinic & Ho..,Mumbai,"Bunglow No. 4,Ashrad Apartment, Mujahid Road, Mumbra, Thane - 400612, Near Papaji School",,51.7948,736.3446807,1855,2419252462,Doctor
+Dr. Madhavi Thoke (Essence ..,Mumbai,"1101-1102, The Pacific, Sector 13, Kharghar, Kharghar, Navi Mumbai - 410210, Near Shilp Chowk",Chowk,64.8822,149.577196,1965,1070329657,Doctor
+Dr Ambika Gautam,Mumbai,"AAROGYA MEDICAL CENTRE, 1st FLOOR SUYASH SHOPPING CENTRE, Goregaon East, Mumbai - 400065, Opposite to NNP POST OFFICE GOREGAON EAST",pposite to NNP POST OFFICE GOREGAON EAST,48.025,707.6200996,1192,880621734,Doctor
+Gurukrupa Criticare Hospita..,Mumbai,"Ground Floor, Shivdham Apartment,Sawali Building, Birla College Road, Kalyan West, Kalyan - 421301, Near Chiken Ghar, Bhoir Wadi, Opposite Kotak Mahindra Bank","Near Chiken Ghar, Bhoir Wadi, Opposite Kotak Mahindra Bank",99.7992,524.786119,1237,3877133736,Doctor
+Dr. C S Lele Clinic,Mumbai,"Shop S 2/7, Malad Kokil Society, S V Road, Malad West, Mumbai - 400064, Sunder Nagar","400064, Sunder Nagar",98.0814,506.2852594,557,1821824208,Doctor
+Dr. Hardik Thakker,Mumbai,"503,5th Floor, Marathon Chamber, Near Panch Rasta, Mulund West, Mumbai - 400080, Above Manoranjan Sarees",Manoranjan Sarees,24.7081,510.4727507,1197,3367384688,Doctor
+Nikunj Physicians & Lifesty..,Mumbai,"Shop No 30, GOLDCREST RESIDENCY, Plot Num 7, Sector 11,Next to Cloud 36, Ghansoli, Navi Mumbai - 400701, Next to Cloud 36",,94.1158,541.7973324,1759,5392504015,Doctor
+Shree Family Health Clinic,Mumbai,"Shop No 2 899/A, Chinchpada Junction, AMBERNATH WEST, Thane - 421501, Father Agnel School",Agnel School,98.0516,161.8169919,1099,3942072103,Doctor
+Dr. Rajesh Kawde,Mumbai,"A/5, Shoppers Spot, Film City Road, Goregaon East, Mumbai - 400063, Opposite Gokuldham Police Station",Police Station,85.0144,224.0480284,928,8579944073,Doctor
+Dr. Tripti Dubey Yadav,Mumbai,"Unit 1, A Wing, First Floor, Olive Complex Coporative Housing Society, Plot No 44, Sector 42, Nerul, Navi Mumbai - 400706, Near Grand Central Mall, Seawoods Railway Station to D Mart Road","44, Sector 42, Nerul, Navi Mumbai - 400706, Near Grand Central Mall, Seawoods Railway Station to D Mart Road",0.5119,190.9917756,1842,8741019984,Doctor
+Shree Clinic (Dr. Kumar S S..,Mumbai,"C/O Shree Clinic,A / 18 / 1, Sector - 13, Cidco Colony, New Panvel, Navi Mumbai - 410206, Nr Banthia School","Navi Mumbai - 410206, Nr Banthia School",90.8626,286.48799,1287,621705192,Doctor
+Saroj Super Speciality Clin..,Mumbai,"B-2 Type/ 5/15,, Sector 15,, Vashi, Navi Mumbai - 400703, Opposite Shabri Hotel,",,30.6914,498.4408204,1168,5638155637,Doctor
+Dr. Rohit Kakus Madhusudan ..,Mumbai,"Shop No. 6 & 7, Hiraman Arcade, P & T Colony Road, Dombivli East, Thane - 421201, Near Maruti Mandir Chowk, Opposite Hirapanna Society","East, Thane - 421201, Near Maruti Mandir Chowk, Opposite Hirapanna Society",62.2679,147.7939719,500,2529165243,Doctor
+Dr. Tripti Dubey Yadav,Mumbai,"Unit 1, A Wing, First Floor, Olive Complex Coporative Housing Society, Plot No 44, Sector 42, Nerul, Navi Mumbai - 400706, Near Grand Central Mall, Seawoods Railway Station to D Mart Road","44, Sector 42, Nerul, Navi Mumbai - 400706, Near Grand Central Mall, Seawoods Railway Station to D Mart Road",53.4329,304.2562508,1216,3864295960,Doctor
+Shree Clinic (Dr. Kumar S S..,Mumbai,"C/O Shree Clinic,A / 18 / 1, Sector - 13, Cidco Colony, New Panvel, Navi Mumbai - 410206, Nr Banthia School","Navi Mumbai - 410206, Nr Banthia School",19.4285,595.5855809,742,628649941,Doctor
+Saroj Super Speciality Clin..,Mumbai,"B-2 Type/ 5/15,, Sector 15,, Vashi, Navi Mumbai - 400703, Opposite Shabri Hotel,",,23.2508,565.3705805,635,7812700947,Doctor
+Dr. Rohit Kakus Madhusudan ..,Mumbai,"Shop No. 6 & 7, Hiraman Arcade, P & T Colony Road, Dombivli East, Thane - 421201, Near Maruti Mandir Chowk, Opposite Hirapanna Society","East, Thane - 421201, Near Maruti Mandir Chowk, Opposite Hirapanna Society",23.7407,420.3233381,519,4277540761,Doctor
+PVR Anupam,Delhi,"Plot No-1 Pvr Complex Community Center, Saket, Delhi - 110017, Inside Saket Complex",Inside Saket Complex,11.6783,943.1685963,1769,8839597434,Cinema Hall
+INOX Cinemas,Delhi,"Plot Number - 19, Janakpuri District Centre, Delhi - 110058, Near Janak Palace",Janak Palace,96.0498,642.4777196,1430,1973208762,Cinema Hall
+PVR Cinemas (Pacific Mall),Delhi,"Level 3, Pacific Mall, Subhash Nagar, Delhi - 110027, Near Tagore Garden  Metro Station",Tagore Garden Metro Station,38.8323,68.69961891,1077,4365945808,Cinema Hall
+PVR Cinemas (East Delhi Mal..,Delhi,"Plot No-1, East Delhi Mall, Kaushambi, Ghaziabad - 201012, Opposite Anand Vihar",,43.6049,11.80644003,554,6528597583,Cinema Hall
+PVR Cinemas (Mahagun Metro ..,Delhi,"Vc3, Mahagun Metro Mall, Vaishali Sector 3, Ghaziabad - 201012",Sector 201012,24.2697,739.5550773,1824,6119488983,Cinema Hall
+M2k Cinemas,Delhi,"16, Mangalam Palace, M2K Road, Rohini Sector 3, Delhi - 110085, Near District Centre",,66.4913,557.8236527,1058,7619657796,Cinema Hall
+Wave Cinemas (Wave Mall),Delhi,"Wave Mall, Kaushambi, Ghaziabad - 201012, Opposite Telephone Exchange",,2.3938,468.4975735,1829,2453540274,Cinema Hall
+Cinepolis Cinemas (Smart Bh..,Delhi,"I - 2, Smart Bharat Mall, Main Road, Noida Sector 25a, Noida - 201301, Near Noida Stadium & Noida City Centre Metro Station",Noida Stadium & Noida City Centre Metro Station,83.8531,521.0860953,1984,6981771004,Cinema Hall
+INOX Cinemas,Delhi,"45, INOX Cinemas, Nehru Place, Delhi - 110019, Near District Centre & Intercontinental Hotel",l,2.7297,507.8381867,1170,9009077399,Cinema Hall
+Cinepolis Cinemas (V3s Mall..,Delhi,"V3s Mall, Vikas Marg, Laxmi Nagar, Delhi - 110092, Near District Centre, Near Preet Vihar Metro Station",,79.0853,672.1931704,689,6784950889,Cinema Hall
+PVR Cinemas (Star Mall),Delhi,"Star Mall, Second Floor, Gurgaon Sector 30, Gurgaon - 122002, Near National Highway-8, Opposite 32 Milestone",Opposite 32 Milestone,78.5165,192.5568486,1457,7436961786,Cinema Hall
+PVR Cinemas (Fun City Mall),Delhi,"2nd Floor, Fun City Mall, Prashant Vihar, Delhi - 110085, Block-A, Sector-14",Actor-14,6.8537,152.9284626,1504,9846148940,Cinema Hall
+Movie Time Cinemas (West Ga..,Delhi,"4th Floor, West Gate Mall, Ring Road, Rajouri Garden, Delhi - 110027, Near Petrol Pump, Opposite Wave Cinema",,59.6144,653.4485827,999,3405109525,Cinema Hall
+Wave Cinemas (Tdi Paragon M..,Delhi,"Tdi Paragon Mall, Plot Number- 2, Raja Garden, Delhi - 110015, Near Shivaji Palace",,46.7703,497.8483969,576,7605501900,Cinema Hall
+INOX Cinemas,Delhi,"Hall Number - 402, 4th Floor, Satyam Cinema Building, Suman Lata Bhadola Marg, Patel Nagar East, Delhi - 110008, Near Shadipur Metro Station","Nagar East, Delhi - 110008, Near Shadipur Metro Station",30.0101,595.8845801,867,3970273589,Cinema Hall
+G3s Cinemas,Delhi,"Plot Number 6, 2nd Floor, Garg Trade Centre, Rohini Sector 11, Delhi - 110085, Opposite Ambedkar Bhawan, Near HDFC Bank",,78.1899,921.2436174,1732,1750511877,Cinema Hall
+M2k Cinemas,Delhi,"M2K Mall Plot Number-4, Road Number-44, Pitampura, Delhi - 110034, Near Community Centre",,81.284,203.2357438,1805,2245610005,Cinema Hall
+Carnival Cinemas (The Great..,Delhi,"Plot No-A 2, 3rd Floor, The Great India Place, Noida Sector 38, Noida - 201301, Near  Noida Sector 18 Metro Station","Noida - 201301, Near  Noida Sector 18 Metro Station",98.3107,337.6704312,1890,7627226182,Cinema Hall
+Delite Cinema,Delhi,"Plot No- 4/1, Asaf Ali Road, Delhi - 110002, Near Delhi Gate 4",,17.4217,173.8652428,905,4084228759,Cinema Hall
+Cinepolis Cinemas (Cross Ri..,Delhi,"Cross River Mall, Shahdara, Delhi - 110032, Near Karkardooma",,33.4662,920.9767635,729,5977265175,Cinema Hall
+PVR Cinemas (Star Mall),Delhi,"Star Mall, Second Floor, Gurgaon Sector 30, Gurgaon - 122002, Near National Highway-8, Opposite 32 Milestone",Opposite 32 Milestone,80.5778,934.8762288,1835,9295146362,Cinema Hall
+PVR Cinemas (Fun City Mall),Delhi,"2nd Floor, Fun City Mall, Prashant Vihar, Delhi - 110085, Block-A, Sector-14",Actor-14,41.1778,806.2905308,1843,594822357,Cinema Hall
+Movie Time Cinemas (West Ga..,Delhi,"4th Floor, West Gate Mall, Ring Road, Rajouri Garden, Delhi - 110027, Near Petrol Pump, Opposite Wave Cinema",,29.4851,601.9934768,1447,6115043803,Cinema Hall
+Wave Cinemas (Tdi Paragon M..,Delhi,"Tdi Paragon Mall, Plot Number- 2, Raja Garden, Delhi - 110015, Near Shivaji Palace",,25.1683,801.0131189,788,4712822240,Cinema Hall
+INOX Cinemas,Delhi,"Hall Number - 402, 4th Floor, Satyam Cinema Building, Suman Lata Bhadola Marg, Patel Nagar East, Delhi - 110008, Near Shadipur Metro Station","Nagar East, Delhi - 110008, Near Shadipur Metro Station",53.0743,40.45053825,1567,5981175370,Cinema Hall
+G3s Cinemas,Delhi,"Plot Number 6, 2nd Floor, Garg Trade Centre, Rohini Sector 11, Delhi - 110085, Opposite Ambedkar Bhawan, Near HDFC Bank",,84.0587,517.5859949,570,5645462433,Cinema Hall
+M2k Cinemas,Delhi,"M2K Mall Plot Number-4, Road Number-44, Pitampura, Delhi - 110034, Near Community Centre",,65.855,539.391923,1255,4284885756,Cinema Hall
+Carnival Cinemas (The Great..,Delhi,"Plot No-A 2, 3rd Floor, The Great India Place, Noida Sector 38, Noida - 201301, Near  Noida Sector 18 Metro Station","Noida - 201301, Near  Noida Sector 18 Metro Station",80.1667,390.4674309,1933,6019204295,Cinema Hall
+Delite Cinema,Delhi,"Plot No- 4/1, Asaf Ali Road, Delhi - 110002, Near Delhi Gate 4",,63.7455,608.9617525,1697,3592536087,Cinema Hall
+Cinepolis Cinemas (Cross Ri..,Delhi,"Cross River Mall, Shahdara, Delhi - 110032, Near Karkardooma",,55.8888,300.1283569,805,737551647,Cinema Hall
+Fun Cinemas (North Square M..,Delhi,"Plot No-F-123 North Square Mall, Kabirdas Marg, Pitampura, Delhi - 110034, Near Netaji Subhash Place",ash Place,30.2829,14.49600785,1941,328839453,Cinema Hall
+INOX Cinemas (Crown Interio..,Delhi,"3rd Floor, Crown Interiorz Mall, Delhi Mathura Road, Faridabad Sector 35, Faridabad - 121003",3,97.3725,896.6245623,1534,6056702029,Cinema Hall
+Movie Time Cinemas (North S..,Delhi,"North Pacific Mall, Pitampura, Delhi - 110034, Near City Park Hotel, KP Block",,49.8726,18.1835796,1442,4916755975,Cinema Hall
+INOX Cinemas (Gurgaon Dream..,Delhi,"Dreamz Mall, 3rd Floor, Old Railway Road, Gurgaon Sector 4, Gurgaon - 122001, Near Sector 4",Sector 4,95.729,155.9749483,1035,1153131884,Cinema Hall
+Carnival Cinemas,Delhi,"23 Odeon Complex, Connaught Place, Delhi - 110001, Near D-Block & PVR Plaza",,32.5821,755.6817822,1438,1984342962,Cinema Hall
+Carnival Cinemas (Pacific M..,Delhi,"Pacific Mall, Plot Number - 1, Dr Burman Road, Kaushambi, Ghaziabad - 201012, Near Anad Vihar Bus Stand",Vihar Bus Stand,52.2475,616.540021,757,9532623029,Cinema Hall
+Amba Cinema,Delhi,"Building Number - 7674, GT Road, Kamla Nagar, Delhi - 110007, Near Clock Tower & Old Subzi Mandi",Mandi,48.3405,130.2525383,885,5208180747,Cinema Hall
+Liberty Cinema,Delhi,"Plot Number - 19 B, Block 21 B, New Rohtak Road, Karol Bagh, Delhi - 110005, Near Kochar Hotel","110005, Near Kochar Hotel",70.1926,950.477784,1401,3929926962,Cinema Hall
+INOX Cinemas (Shipra Mall),Delhi,"Plot No-9, 3rd Floor, Shipra Mall, Indirapuram, Ghaziabad - 201014, Near Indira Sun City, Vaibhav Khand","City, Vaibhav Khand",80.2568,837.5487961,1640,2345242016,Cinema Hall
+D T Cinemas (DLF Place Mall..,Delhi,"Plot Number - A 4, 1st Floor, Dlf Place Mall, Saket, Delhi - 110017, Near Marriot Hotel",Marriot Hotel,14.5734,391.4499361,1527,8470115566,Cinema Hall
+Fun Cinemas (North Square M..,Delhi,"Plot No-F-123 North Square Mall, Kabirdas Marg, Pitampura, Delhi - 110034, Near Netaji Subhash Place",ash Place,39.9966,6.906655548,1352,3819107388,Cinema Hall
+INOX Cinemas (Crown Interio..,Delhi,"3rd Floor, Crown Interiorz Mall, Delhi Mathura Road, Faridabad Sector 35, Faridabad - 121003",3,97.6015,720.4238994,822,1399141688,Cinema Hall
+Movie Time Cinemas (North S..,Delhi,"North Pacific Mall, Pitampura, Delhi - 110034, Near City Park Hotel, KP Block",,58.2501,49.55100745,1154,1517228688,Cinema Hall
+INOX Cinemas (Gurgaon Dream..,Delhi,"Dreamz Mall, 3rd Floor, Old Railway Road, Gurgaon Sector 4, Gurgaon - 122001, Near Sector 4",Sector 4,42.2484,134.5979296,1899,937753840,Cinema Hall
+Carnival Cinemas,Delhi,"23 Odeon Complex, Connaught Place, Delhi - 110001, Near D-Block & PVR Plaza",,62.895,975.8079905,1148,9975939599,Cinema Hall
+Carnival Cinemas (Pacific M..,Delhi,"Pacific Mall, Plot Number - 1, Dr Burman Road, Kaushambi, Ghaziabad - 201012, Near Anad Vihar Bus Stand",Vihar Bus Stand,90.399,747.8294561,1050,5473653382,Cinema Hall
+Amba Cinema,Delhi,"Building Number - 7674, GT Road, Kamla Nagar, Delhi - 110007, Near Clock Tower & Old Subzi Mandi",Mandi,0.5229,507.2866828,1041,6522279428,Cinema Hall
+Liberty Cinema,Delhi,"Plot Number - 19 B, Block 21 B, New Rohtak Road, Karol Bagh, Delhi - 110005, Near Kochar Hotel","110005, Near Kochar Hotel",8.5475,872.6365618,1234,1797038597,Cinema Hall
+INOX Cinemas (Shipra Mall),Delhi,"Plot No-9, 3rd Floor, Shipra Mall, Indirapuram, Ghaziabad - 201014, Near Indira Sun City, Vaibhav Khand","City, Vaibhav Khand",79.044,625.8477085,1460,7298738379,Cinema Hall
+D T Cinemas (DLF Place Mall..,Delhi,"Plot Number - A 4, 1st Floor, Dlf Place Mall, Saket, Delhi - 110017, Near Marriot Hotel",Marriot Hotel,86.6877,471.1127157,730,8395877574,Cinema Hall
+SRS Cinemas (Aditya Mall),Delhi,"Plot Number-3 3rd Floor Aditya Mall, Vaibhav Khand-indirapuram, Ghaziabad - 201014, Near Vaibhav Khand 3",Vaibhav Khand 3,67.0919,474.2828864,1290,5634101484,Cinema Hall
+Silver City Cinemas,Delhi,"Plot Number - 6/3, Sector 13 Bulandshahr Road, Lal Kuan Industrial Area, Ghaziabad - 201009, Near IMS Institute",", Near IMS Institute",68.1378,95.16601868,1776,1828937290,Cinema Hall
+Wave Cinemas (Centre Stage ..,Delhi,"Plot Number L-1, Centre Stage Mall, Noida Sector 18, Noida - 201301, Near Raddison Hotel",,46.2346,329.6140989,573,4934608063,Cinema Hall
+PVR Cinemas (Vegas Mall),Delhi,"Vegas Mall, 3rd Floor, Sector 14 Road, Dwarka Sector 14, Delhi - 110078, Near Pocket 1, Kakrola","Pocket 1, Kakrola",38.2493,539.870156,1157,6991004335,Cinema Hall
+PVR Cinemas (Pacific D21 Ma..,Delhi,"Pacific D21 Mall, Dwarka Sector 21, Delhi - 110078, Dwarka Sector 21 Metro Station",,77.5042,377.3340931,777,1088714888,Cinema Hall
+R R Cinemas (Jaipuria Mall),Delhi,"1st Floor, Jaipuria Mall, Plot No 12, Ahinsa Khand 2-indirapuram, Ghaziabad - 201014",,64.5789,643.7363354,1537,2866465540,Cinema Hall
+PVR 3Cs,Delhi,"Plot Number - 15, Feroze Gandhi Road, Lajpat Nagar 3, Delhi - 110024, Near Police Station",PoliceStation,35.8579,700.4569304,1924,8859775937,Cinema Hall
+Cinepolis Janak Cinema,Delhi,"Plot No-204, Pankha Road, Janakpuri, Delhi - 110058, Near Bus Stand Block C 6",Blockock C 6,82.68,547.6942707,805,7998265505,Cinema Hall
+INOX Eros One,Delhi,"1st Floor, Eros Cinema Building, Jangpura Extention, Delhi - 110014, Near Bhogal",,36.0614,415.1751173,1655,2763321082,Cinema Hall
+Galaxie Multiplex,Delhi,"Plot Number  No- 64/5/19 22, Main Link Road Madan Mohan Malviya Marg, Local Road, Sahibabad Industrial Area Site 4, Ghaziabad - 201010, Near Country Inn & Suites Hotel, Opposite Gulmohar Grand","Marg, Local Road, Sahibabad Industrial Area Site 4, Ghaziabad - 201010, Near Country Inn & Suites Hotel, Opposite Gulmohar Grand",15.4341,284.7826105,1981,6094270432,Cinema Hall
+R R Cinemas (Jaipuria Mall),Delhi,"1st Floor, Jaipuria Mall, Plot No 12, Ahinsa Khand 2-indirapuram, Ghaziabad - 201014",,46.283,616.6542326,1853,6324594724,Cinema Hall
+PVR 3Cs,Delhi,"Plot Number - 15, Feroze Gandhi Road, Lajpat Nagar 3, Delhi - 110024, Near Police Station",PoliceStation,26.3384,927.4825873,621,1152944597,Cinema Hall
+Cinepolis Janak Cinema,Delhi,"Plot No-204, Pankha Road, Janakpuri, Delhi - 110058, Near Bus Stand Block C 6",Blockock C 6,13.4445,900.7377042,1052,871679239,Cinema Hall
+INOX Eros One,Delhi,"1st Floor, Eros Cinema Building, Jangpura Extention, Delhi - 110014, Near Bhogal",,30.4754,248.9049572,1746,9533618314,Cinema Hall
+Galaxie Multiplex,Delhi,"Plot Number  No- 64/5/19 22, Main Link Road Madan Mohan Malviya Marg, Local Road, Sahibabad Industrial Area Site 4, Ghaziabad - 201010, Near Country Inn & Suites Hotel, Opposite Gulmohar Grand","Marg, Local Road, Sahibabad Industrial Area Site 4, Ghaziabad - 201010, Near Country Inn & Suites Hotel, Opposite Gulmohar Grand",38.6752,654.3898942,1815,1179052513,Cinema Hall
+Carnival Cinemas Imax Scree..,Mumbai,"Carnival Cinemas Imax, Anik Wadala Link Road, Wadala East, Mumbai - 400037, Near Bhakti Park",k,45.2571,411.4749262,900,656170185,Cinema Hall
+PVR Cinemas,Mumbai,"Prime Mall, Mira Bhayandar Road, Beverly Park-mira Road, Thane - 401107, Near Kanakia Police Station & Shiver Garden",e Station & Shiver Garden,80.4544,808.4808632,1039,8035718925,Cinema Hall
+PVR Icon Cinemas (Oberoi Ma..,Mumbai,"Oberoi Mall, 3rd Floor, International Business Park, General AK Vidya Marg, Goregaon East, Mumbai - 400063, Near Off Western Express Highway","Mumbai - 400063, Near Off Western Express Highway",51.1554,809.2641311,1180,7639158309,Cinema Hall
+INOX Cinemas,Mumbai,"Metro Building, M G Road, Marine Lines, Mumbai - 400020, Near Dhobi Talao Junction",,84.4737,804.0302071,1721,3194916601,Cinema Hall
+Carnival Cinemas,Mumbai,"Office No 127, Andheri Kurla Road, Chakala-andheri East, Mumbai - 400093, Opposite Acme Plaza & Divine Child School",za & Divine Child School,95.1487,845.9419556,1115,9920559065,Cinema Hall
+INOX Cinemas (Inorbit Mall),Mumbai,"2nd Floor, Inorbit Mall, Link Road, Malad West, Mumbai - 400064, Beside Hypercity, Near Subkuch Market",Subkuch Market,26.7058,584.7152378,669,9481897945,Cinema Hall
+Maxus Cinemas (Maxus Mall),Mumbai,"2nd Floor, Maxus Mall, Temba Road, Bhayandar West, Thane - 401101, Near Railway Flyover, Opposite Salasar Bridge Bhoomi",,58.3655,481.6472602,1329,4855230913,Cinema Hall
+PVR Cinemas,Mumbai,"Roopam Building, Sion Main Road, Sion, Mumbai - 400022, Near Sion Circle, Opposite Peninsula Restaurant",Restaurant,69.2735,697.3922727,1276,2082244889,Cinema Hall
+PVR Icon Cinemas (Infiniti ..,Mumbai,"3rd Floor, Infiniti Mall, New Link Road, Andheri West, Mumbai - 400053, Near Lotus Petrol Pump, Versova &  Phase D","Petrol Pump, Versova &  Phase D",84.6129,237.6630424,622,425802128,Cinema Hall
+PVR Cinemas (Dynamix Mall),Mumbai,"5th Floor, Dynamix Mall, J M Marg, Juhu, Mumbai - 400049, Above Shoppers Stop, Near Chandan Cinema",Near Chandan Cinema,72.5103,982.1721869,1997,5367105169,Cinema Hall
+Cinepolis Cinema (Fun Repub..,Mumbai,"Fun Republic Mall, 1st Floor, Plot No 844/4, Shah Industrial Estate, New Link Road, Andheri West, Mumbai - 400053, Opposite Laxmi Industrial Estate","Link Road, Andheri West, Mumbai - 400053, Opposite Laxmi Industrial Estate",87.6574,626.5706324,1663,7913456861,Cinema Hall
+INOX Cinemas (Thakur Mall),Mumbai,"3rd Floor, Thakur Mall, Dahisar, Mumbai - 400068, Near Dahisar Checknaka, Opposite Hotel Sun Shine Inn",Shine Inn,41.3798,49.64465651,1479,1045084786,Cinema Hall
+Carnival Cinemas,Mumbai,"Plot No 1, Oyo Town House, Ram Mandir Road, Goregaon West, Mumbai - 400062, Off S V Road",Off S V Road,3.8282,781.6743738,1243,8959769818,Cinema Hall
+Carnival Cinemas (Annex Mal..,Mumbai,"Annex Mall, 2nd Floor, Western Express Highway, Borivali East, Mumbai - 400066, Near Prithvi Enclave, Opposite Sai Dham Temple","Enclave, Opposite Sai Dham Temple",87.672,22.05671557,1102,9572641711,Cinema Hall
+PVR Cinemas (High Street Ph..,Mumbai,"High Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai - 400013, Above Big Bazaar, Near Raghuvanshi Mills",Near Raghuvanshi Mills,6.1034,306.201364,1818,8641195854,Cinema Hall
+INOX Cinemas (Raghuleela Me..,Mumbai,"2nd Floor, Raghuleela Mega Mall, Kandivali West, Mumbai - 400067, Behind Poisar Bus Depot, Off S V Road",,79.7209,290.5546027,905,752389578,Cinema Hall
+Mukta A2 Cinemas,Mumbai,"MG Road, Vile Parle East, Mumbai - 400057, Opposite Shaan Cinema",,75.0978,207.1020759,1959,6615159728,Cinema Hall
+Miraj Cinemas,Mumbai,"Sri Swastik Mega City, Sri Prastha Complex, Zero Road, Nalasopara West, Palghar - 401203, Opposite Poonam Complex",Opposite Poonam Complex,58.5647,987.6315836,1862,2811783665,Cinema Hall
+Cinemax Cinemas (Infiniti M..,Mumbai,"Infiniti Mall, 3rd Floor, Survey No 504, Link Road, Malad West, Mumbai - 400064, Near Goregaon Sports Complex",Near Goregaon Sports Complex,4.9196,811.2702134,891,206699461,Cinema Hall
+Sterling Cineplex,Mumbai,"Murzaban Road No 65, Fort, Mumbai - 400001, Opposite VT Station, Near New Empire Cinema",,51.0742,969.2739608,764,7654316728,Cinema Hall
+Cinepolis Cinema (Fun Repub..,Mumbai,"Fun Republic Mall, 1st Floor, Plot No 844/4, Shah Industrial Estate, New Link Road, Andheri West, Mumbai - 400053, Opposite Laxmi Industrial Estate","Link Road, Andheri West, Mumbai - 400053, Opposite Laxmi Industrial Estate",88.4981,278.4417525,1770,8606842633,Cinema Hall
+INOX Cinemas (Thakur Mall),Mumbai,"3rd Floor, Thakur Mall, Dahisar, Mumbai - 400068, Near Dahisar Checknaka, Opposite Hotel Sun Shine Inn",Shine Inn,20.1873,556.3387786,1970,6150969083,Cinema Hall
+Carnival Cinemas,Mumbai,"Plot No 1, Oyo Town House, Ram Mandir Road, Goregaon West, Mumbai - 400062, Off S V Road",Off S V Road,70.7908,974.5352937,1360,1849260606,Cinema Hall
+Carnival Cinemas (Annex Mal..,Mumbai,"Annex Mall, 2nd Floor, Western Express Highway, Borivali East, Mumbai - 400066, Near Prithvi Enclave, Opposite Sai Dham Temple","Enclave, Opposite Sai Dham Temple",13.2731,959.9614556,1539,6259871882,Cinema Hall
+PVR Cinemas (High Street Ph..,Mumbai,"High Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai - 400013, Above Big Bazaar, Near Raghuvanshi Mills",Near Raghuvanshi Mills,85.4759,236.560689,953,1597285656,Cinema Hall
+INOX Cinemas (Raghuleela Me..,Mumbai,"2nd Floor, Raghuleela Mega Mall, Kandivali West, Mumbai - 400067, Behind Poisar Bus Depot, Off S V Road",,55.276,893.6074248,1004,4749879047,Cinema Hall
+Mukta A2 Cinemas,Mumbai,"MG Road, Vile Parle East, Mumbai - 400057, Opposite Shaan Cinema",,77.5752,673.7908845,655,9781151735,Cinema Hall
+Miraj Cinemas,Mumbai,"Sri Swastik Mega City, Sri Prastha Complex, Zero Road, Nalasopara West, Palghar - 401203, Opposite Poonam Complex",Opposite Poonam Complex,0.4234,601.7951157,709,1708639975,Cinema Hall
+Cinemax Cinemas (Infiniti M..,Mumbai,"Infiniti Mall, 3rd Floor, Survey No 504, Link Road, Malad West, Mumbai - 400064, Near Goregaon Sports Complex",Near Goregaon Sports Complex,25.0418,176.0142378,1382,7987531346,Cinema Hall
+Sterling Cineplex,Mumbai,"Murzaban Road No 65, Fort, Mumbai - 400001, Opposite VT Station, Near New Empire Cinema",,25.3646,155.5720204,1680,4207661163,Cinema Hall
+INOX Cinemas (Raghuleela Ma..,Mumbai,"Raghuleela Mall, 3rd Floor, Vashi, Navi Mumbai - 400703, Opposite Vashi Railway Station",,62.0729,69.8779183,988,4852381001,Cinema Hall
+Cinepolis Cinema (Viviana M..,Mumbai,"Viviana Mall, Eastern Express Highway, Thane West, Thane - 400601, Near Jupiter Hospital, Laxmi Nagar",Nagar,67.258,401.228448,1682,6406376147,Cinema Hall
+Carnival Cinemas (Huma Mall..,Mumbai,"Huma Mall, LBS Marg, Kanjurmarg West, Mumbai - 400078, Opposite Railway Station",,0.3796,352.0450997,684,9163609488,Cinema Hall
+Movie Time Cinemas (The Hub..,Mumbai,"3rd Floor, The Hub Mall, Western Express Highway, Goregaon East, Mumbai - 400063, Near Nirlon Multiplex Complex",Nirlon Multiplex Complex,37.1977,544.8313481,792,121095511,Cinema Hall
+Cinemax Cinemas (Wonder Mal..,Mumbai,"3rd Floor, Wonder Mall, Ghodbunder Road, Thane West, Thane - 400607, Near Kapurbawdi Naka",,27.9056,679.801432,857,722185807,Cinema Hall
+Rassaz Cinema (Rassaz Shopp..,Mumbai,"2nd Floor, Rassaz Shopping Mall, Mira Road, Thane - 401107, Opposite Singapore Plaza, Evershine Nagar",Nagar,19.3036,8.431510082,1486,7974917185,Cinema Hall
+Miraj Cinemas (Dattani Squa..,Mumbai,"Dattani Square Shopping Mall, Stella Road, Vasai West, Palghar - 401202, Near Papdy Talao and  D Mart, Besides Sai Service Papdy","and  D Mart, Besides Sai Service Papdy",17.9934,326.5186214,1306,7655731636,Cinema Hall
+Balaji Movieplex,Mumbai,"Plot No 90, RS Regency Road, Kopar Khairane Sector 8, Navi Mumbai - 400709, Opposite Railway Station, McDonalds","Opposite Railway Station, McDonalds",54.0726,721.1628507,1569,7478462234,Cinema Hall
+INOX Cinemas (Nakshatra Mal..,Mumbai,"2nd Floor, Nakshatra Mall, Ranade Road, Dadar West, Mumbai - 400028, Near Dadar Railway Station",Station,24.9013,515.0793614,1939,7336462786,Cinema Hall
+Plaza Cinema,Mumbai,"Plot No: 2-12/B, NC Kelkar Road, Dadar West, Mumbai - 400028, Near Tilak Bridge, Opposite Veer Kotwal Udyan",Kotwall Udyan,68.8318,314.6050703,789,4505728955,Cinema Hall
+INOX Cinemas (Raghuleela Ma..,Mumbai,"Raghuleela Mall, 3rd Floor, Vashi, Navi Mumbai - 400703, Opposite Vashi Railway Station",,82.4288,584.2625506,1373,4946729226,Cinema Hall
+Cinepolis Cinema (Viviana M..,Mumbai,"Viviana Mall, Eastern Express Highway, Thane West, Thane - 400601, Near Jupiter Hospital, Laxmi Nagar",Nagar,15.3048,149.40216,1301,4778571988,Cinema Hall
+Carnival Cinemas (Huma Mall..,Mumbai,"Huma Mall, LBS Marg, Kanjurmarg West, Mumbai - 400078, Opposite Railway Station",,3.596,387.9385933,1984,2304840168,Cinema Hall
+Movie Time Cinemas (The Hub..,Mumbai,"3rd Floor, The Hub Mall, Western Express Highway, Goregaon East, Mumbai - 400063, Near Nirlon Multiplex Complex",Nirlon Multiplex Complex,13.0581,673.0464363,1348,4791083515,Cinema Hall
+Cinemax Cinemas (Wonder Mal..,Mumbai,"3rd Floor, Wonder Mall, Ghodbunder Road, Thane West, Thane - 400607, Near Kapurbawdi Naka",,67.1712,328.5105069,1516,7123881756,Cinema Hall
+Rassaz Cinema (Rassaz Shopp..,Mumbai,"2nd Floor, Rassaz Shopping Mall, Mira Road, Thane - 401107, Opposite Singapore Plaza, Evershine Nagar",Nagar,51.5236,151.8170792,970,976057912,Cinema Hall
+Miraj Cinemas (Dattani Squa..,Mumbai,"Dattani Square Shopping Mall, Stella Road, Vasai West, Palghar - 401202, Near Papdy Talao and  D Mart, Besides Sai Service Papdy","and  D Mart, Besides Sai Service Papdy",60.0305,691.7765498,733,1773118087,Cinema Hall
+Balaji Movieplex,Mumbai,"Plot No 90, RS Regency Road, Kopar Khairane Sector 8, Navi Mumbai - 400709, Opposite Railway Station, McDonalds","Opposite Railway Station, McDonalds",10.5222,458.1508069,1590,4200565428,Cinema Hall
+INOX Cinemas (Nakshatra Mal..,Mumbai,"2nd Floor, Nakshatra Mall, Ranade Road, Dadar West, Mumbai - 400028, Near Dadar Railway Station",Station,95.0726,244.9140847,1491,3109302593,Cinema Hall
+Plaza Cinema,Mumbai,"Plot No: 2-12/B, NC Kelkar Road, Dadar West, Mumbai - 400028, Near Tilak Bridge, Opposite Veer Kotwal Udyan",Kotwall Udyan,11.6908,538.6045397,1253,6792607787,Cinema Hall
+INOX Cinemas (Neelyog Squar..,Mumbai,"2nd & 3rd Floor, Neelyog Square Mall, RB Mehta Road, Ghatkopar East, Mumbai - 400077, Opposite Railway Station, Patel Chowk","400077, Opposite Railway Station, Patel Chowk",88.9839,721.8803327,544,8089947397,Cinema Hall
+Movie Time Cinemas,Mumbai,"Jagdamba Complex, Link Road, Evershine Nagar-malad West, Mumbai - 400064, Near Sai Palace Hotel",otel,10.887,402.8128938,965,677568307,Cinema Hall
+INOX Cinemas (Korum Mall),Mumbai,"3rd Floor, Korum Mall, Mangal Pandey Road, Thane West, Thane - 400606, Near Cadbury Compound, Off Eastern Express Highway","Compound, Off Eastern Express Highway",25.8198,891.664477,1183,1459477237,Cinema Hall
+Maxus Cinemas,Mumbai,"Big Bazar Express, Andheri Kurla Road, Andheri East, Mumbai - 400072, Near Sakinaka, Opposite Jarimari Bus Stop",Jarimari Bus Stop,65.7866,176.3226585,1659,2483161102,Cinema Hall
+Carnival Cinemas (Dreams Th..,Mumbai,"3rd Floor, Dreams The Mall, Evershine City-vasai East, Palghar - 401208, Besides Holy Family School, Kuldip Singh Nagar","Family School, Kuldip Singh Nagar",39.1026,618.9307615,849,2628063102,Cinema Hall
+PVR Cinemas (Citi Mall),Mumbai,"Citi Mall, New Link Road, Andheri West, Mumbai - 400053, Near Crystal Plaza Building, Survey No 41, Village Oshiwara",,19.5336,158.2633274,1896,7624807100,Cinema Hall
+Cinepolis Cinema (Neptune M..,Mumbai,"Neptune Magnet Mall, 3rd Floor, Neptune Living Point, Lal Bahadur Shastri Road, Bhandup West, Mumbai - 400078, Beside Magatram Petrol Pump","West, Mumbai - 400078, Beside Magatram Petrol Pump",98.491,776.0409002,996,4044940182,Cinema Hall
+Cinemax Cinemas (Eternity M..,Mumbai,"Eternity Mall, LBS Marg, Thane West, Thane - 400601, Near Teen Haath Naka, Eastern Express Highway",Express Highway,11.2328,568.0091915,1660,9400722033,Cinema Hall
+PVR Cinemas,Mumbai,"S V Road, Goregaon West, Mumbai - 400062, Near Goregaon Police Station, Brihan Mumbai Sahakari",ari,54.3132,693.7522404,1423,8953573032,Cinema Hall
+Cinepolis Cinema (K Star Ma..,Mumbai,"4th Floor, K Star Mall, VN Purav Road, Chembur East, Mumbai - 400071, Near Diamond Garden",Diamond Garden,85.3106,90.27197208,1831,4574087288,Cinema Hall
+Cinepolis Cinema (Neptune M..,Mumbai,"Neptune Magnet Mall, 3rd Floor, Neptune Living Point, Lal Bahadur Shastri Road, Bhandup West, Mumbai - 400078, Beside Magatram Petrol Pump","West, Mumbai - 400078, Beside Magatram Petrol Pump",25.7246,869.9044159,519,4483173196,Cinema Hall
+Cinemax Cinemas (Eternity M..,Mumbai,"Eternity Mall, LBS Marg, Thane West, Thane - 400601, Near Teen Haath Naka, Eastern Express Highway",Express Highway,72.5854,975.0391465,1737,3566774187,Cinema Hall
+PVR Cinemas,Mumbai,"S V Road, Goregaon West, Mumbai - 400062, Near Goregaon Police Station, Brihan Mumbai Sahakari",ari,27.1122,199.3163626,728,9995224881,Cinema Hall
+Cinepolis Cinema (K Star Ma..,Mumbai,"4th Floor, K Star Mall, VN Purav Road, Chembur East, Mumbai - 400071, Near Diamond Garden",Diamond Garden,52.9727,886.5946359,1390,4302891368,Cinema Hall
+PVR Cinemas (Orion Mall),Bangalore,"Orion Mall, 3rd Floor, Brigade Gateway, Malleswaram, Bangalore - 560003, Near Mysore Sandal Soap Factory",Factory,72.9149,870.1321487,1924,8463635967,Cinema Hall
+PVR Cinemas (The Forum Mall..,Bangalore,"No.21/22, The Forum Mall, Adugodi Main Road, Koramangala, Bangalore - 560095",Koramangala 560095,58.4385,595.1598446,1980,8531447782,Cinema Hall
+Innovative Multiplex,Bangalore,"No.135, Outer Ring Road, Marathahalli, Bangalore - 560037",,50.4637,349.5196814,972,1522231286,Cinema Hall
+INOX Cinemas,Bangalore,"No.1, 3rd Floor, Mantri Square Mall, Malleswaram, Bangalore - 560003, Near Sampige Road",Sampigege Road,91.0239,204.7572234,641,5779492628,Cinema Hall
+Urvashi Theatre,Bangalore,"No. 40, Lalbagh Main Road, Siddaiah Road, Bangalore - 560027, Near MTR Hotel",,49.0652,103.5036036,1105,8935900000,Cinema Hall
+Cinepolis Cinemas,Bangalore,"Royal Meenakshi Mall, Bannerghatta Road, Bangalore - 560076, Opposite Meenakshi Temple",,57.5342,644.7537585,1004,8997256994,Cinema Hall
+Gopalan Cinemas,Bangalore,"3rd Floor, Gopalan Arcade Mall, Mysore Road, Rajarajeshwari Nagar, Bangalore - 560098, Near Metro Station",Station,59.4919,86.37103212,752,6275763880,Cinema Hall
+Carnival Cinemas,Bangalore,"No.8, Rockline Mall, Majestic Service Road, T Dasarahalli, Bangalore - 560057, Near Jalahalli Cross",Cross,77.9558,774.2719281,731,6735921942,Cinema Hall
+INOX Cinemas (Lido Shopping..,Bangalore,"Lido Mall, 2nd Floor, Swami Vivekananda Road, Ulsoor, Bangalore - 560008, Next to Hyatt Bangalore",Bangalore,70.2792,110.3350993,1687,542402576,Cinema Hall
+Cauvery Theatre,Bangalore,"No. 8/1, Sankey Road, Bangalore - 560020, Near HP Petrol Bunk",Petrolol Bunk,76.2683,455.0183499,1385,7812140588,Cinema Hall
+INOX Cinemas (Sri Garuda Sw..,Bangalore,"Shree Garuda Swagath Mall, 30th Cross, Tilaknagar Main Road, Jayanagar 4th Block East, Bangalore - 560011, Opposite to Tilaknagar Police Station","Bangalore - 560011, Opposite to Tilaknagar Police Station",92.5922,804.8387023,1763,6935233535,Cinema Hall
+Lakshmi Theatre,Bangalore,"No.104/1, Tavarekere Road, Bangalore - 560081, Next to Balaji Theatre",BalajiTheatre,34.6357,508.2289196,1340,1135339209,Cinema Hall
+Gopalan Cinemas (Gopalan In..,Bangalore,"3rd Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore - 560076, Near Jayadeva Hospital",spital,71.9536,847.3102198,1746,5946899596,Cinema Hall
+Navarang Theatre,Bangalore,"80 Feet Road, Dr Rajkumar Road, Rajajinagar 2nd Block, Bangalore - 560010",Block 560010,56.1193,42.00935181,547,1234965894,Cinema Hall
+INOX Cinemas (Garuda Shoppi..,Bangalore,"C/O Inox Leisure Ltd, 4th Floor, Garuda Mall, Magrath Road, Bangalore - 560025",,61.8514,282.513572,977,253951923,Cinema Hall
+INOX Cinemas,Bangalore,"No. 62, 2nd Floor, The Forum Neighbourhood Mall, Whitefield Main Road, Bangalore - 560066, Opposite Maruti Suzuki Showroom",Opposite Maruti Suzuki Showroom,43.2928,482.3271154,1468,321543234,Cinema Hall
+Gopalan Cinemas (Gopalan Le..,Bangalore,"No.148, Gopalan Legacy Mall, 3rd Floor, Sirsi Circle Road, Mysore Road, Bangalore - 560026, Near Satellite Bus Stop",Busus Stop,74.1169,327.7779714,914,9697200657,Cinema Hall
+Gopalan Cinemas (Gopalan Gr..,Bangalore,"2nd Floor, Gopalan Grand Mall, Nagavarapalya, Bangalore - 560093, Above More Supermarket",,72.7755,593.8187926,805,669979864,Cinema Hall
+Gopalan Cinemas,Bangalore,"No.261/4, Nagavarapalya Main Road, C V Raman Nagar, Bangalore - 560093",Nagar 560093,74.9439,296.4514488,1830,3113977625,Cinema Hall
+INOX Cinemas (Central Mall),Bangalore,"Central Mall, 5th Floor, 45th Cross, Jp Nagar 2nd Phase, Bangalore - 560078",,56.133,482.9155589,875,4415987701,Cinema Hall
+INOX Cinemas (Sri Garuda Sw..,Bangalore,"Shree Garuda Swagath Mall, 30th Cross, Tilaknagar Main Road, Jayanagar 4th Block East, Bangalore - 560011, Opposite to Tilaknagar Police Station","Bangalore - 560011, Opposite to Tilaknagar Police Station",0.6237,219.9316189,884,7590799357,Cinema Hall
+Lakshmi Theatre,Bangalore,"No.104/1, Tavarekere Road, Bangalore - 560081, Next to Balaji Theatre",BalajiTheatre,86.027,716.4133518,527,8041554220,Cinema Hall
+Gopalan Cinemas (Gopalan In..,Bangalore,"3rd Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore - 560076, Near Jayadeva Hospital",spital,0.0372,518.2068384,1675,6664887828,Cinema Hall
+Navarang Theatre,Bangalore,"80 Feet Road, Dr Rajkumar Road, Rajajinagar 2nd Block, Bangalore - 560010",Block 560010,9.8061,564.2656043,1392,1345476288,Cinema Hall
+INOX Cinemas (Garuda Shoppi..,Bangalore,"C/O Inox Leisure Ltd, 4th Floor, Garuda Mall, Magrath Road, Bangalore - 560025",,93.1866,479.2867938,1548,8328174313,Cinema Hall
+INOX Cinemas,Bangalore,"No. 62, 2nd Floor, The Forum Neighbourhood Mall, Whitefield Main Road, Bangalore - 560066, Opposite Maruti Suzuki Showroom",Opposite Maruti Suzuki Showroom,11.4461,793.9621846,779,8753735500,Cinema Hall
+Gopalan Cinemas (Gopalan Le..,Bangalore,"No.148, Gopalan Legacy Mall, 3rd Floor, Sirsi Circle Road, Mysore Road, Bangalore - 560026, Near Satellite Bus Stop",Busus Stop,5.5997,37.99676799,735,9198758866,Cinema Hall
+Gopalan Cinemas (Gopalan Gr..,Bangalore,"2nd Floor, Gopalan Grand Mall, Nagavarapalya, Bangalore - 560093, Above More Supermarket",,94.5446,530.2781933,1730,5936320573,Cinema Hall
+Gopalan Cinemas,Bangalore,"No.261/4, Nagavarapalya Main Road, C V Raman Nagar, Bangalore - 560093",Nagar 560093,43.0959,752.5020461,824,8620704353,Cinema Hall
+INOX Cinemas (Central Mall),Bangalore,"Central Mall, 5th Floor, 45th Cross, Jp Nagar 2nd Phase, Bangalore - 560078",,0.5026,246.0649549,1112,9342329084,Cinema Hall
+Cinepolis Cinemas (Eta Mall..,Bangalore,"No.42, Eta Namma Mall, 3rd Floor, Tank Bund Road, Kempapura Agrahara, Binnypete, Bangalore - 560026, Opp. Banana Market",Banana Market,37.0756,809.9960295,1777,3344732904,Cinema Hall
+The Cinema (Gt World Mall),Bangalore,"No.92, Gt World Mall, Tollgate Road, Magadi Road, Bangalore - 560023, Next to Prasanna Theatre",Prasanna Theatre,36.8043,27.0567422,1591,2878819925,Cinema Hall
+Vaibhav Theatre,Bangalore,"No.68/5, Rajmahal Vilas, Sanjay Nagar, Bangalore - 560094, Near Police Station,RMV Extension, 2nd Stage","Extension, 2nd Stage",58.5021,432.9567098,1017,9408799368,Cinema Hall
+Fun Cinemas,Bangalore,"4th Floor, Grand Sigma Mall, Cunningham Road, Bangalore - 560052, Next to Fortis Hospital",,83.6946,506.1179771,1155,3901012390,Cinema Hall
+Hmt Cinema,Bangalore,"Hmt Complex, Jalahalli Village, Bangalore - 560013, Near Kamath Hotel & Police Station",,83.1938,987.5339229,1896,5872199061,Cinema Hall
+PVR Cinemas (Vr Bengaluru M..,Bangalore,"No.408, 3rd Floor, VR Bengaluru Mall, 3rd Cross, Whitefield Main Road, Mahadevapura, Bangalore - 560048, Near Phoenix Market City","Bangalore - 560048, Near Phoenix Market City",48.0272,335.0255634,1435,2967657842,Cinema Hall
+Manasa Theatre,Bangalore,"No. 21/5/A, Vasantapura Road, Konanakunte, Bangalore - 560062, Near Yelachenahalli Metro Station",ation,50.8611,923.4917718,1602,3345761441,Cinema Hall
+Sandhya Digital Theatre 4k,Bangalore,"No. 58, Chikka Madivala, Btm Layout 1st Stage, Bangalore - 560068",Stage 560068,19.5332,187.491741,1323,6625588420,Cinema Hall
+PVR Cinemas (Elements Mall),Bangalore,"Sy No.132 P, Msr Regaliaa Elements Mall, 5th Floor, 100 Feet Wide, Thanisandra Main Road, Nagawara, Bangalore - 560045, Behind Manyata Tech Park","Thanisandra Main Road, Nagawara, Bangalore - 560045, Behind Manyata Tech Park",68.1963,574.5252255,1512,2498809837,Cinema Hall
+Mukunda Theatre,Bangalore,"No.30, Banasawadi Main Road, Maruthi Sevanagar, Bangalore - 560033, Near Ramaswamipalya",,82.1958,834.711348,1469,9258321954,Cinema Hall
+Cinepolis Cinemas (Eta Mall..,Bangalore,"No.42, Eta Namma Mall, 3rd Floor, Tank Bund Road, Kempapura Agrahara, Binnypete, Bangalore - 560026, Opp. Banana Market",Banana Market,59.5397,768.0252304,1311,6501705357,Cinema Hall
+The Cinema (Gt World Mall),Bangalore,"No.92, Gt World Mall, Tollgate Road, Magadi Road, Bangalore - 560023, Next to Prasanna Theatre",Prasanna Theatre,5.1959,171.0942947,537,5455020415,Cinema Hall
+Vaibhav Theatre,Bangalore,"No.68/5, Rajmahal Vilas, Sanjay Nagar, Bangalore - 560094, Near Police Station,RMV Extension, 2nd Stage","Extension, 2nd Stage",12.9047,148.5439372,1965,1076826552,Cinema Hall
+Fun Cinemas,Bangalore,"4th Floor, Grand Sigma Mall, Cunningham Road, Bangalore - 560052, Next to Fortis Hospital",,3.576,6.003578956,1212,7647226626,Cinema Hall
+Hmt Cinema,Bangalore,"Hmt Complex, Jalahalli Village, Bangalore - 560013, Near Kamath Hotel & Police Station",,62.4091,165.9062454,856,1103311916,Cinema Hall
+PVR Cinemas (Vr Bengaluru M..,Bangalore,"No.408, 3rd Floor, VR Bengaluru Mall, 3rd Cross, Whitefield Main Road, Mahadevapura, Bangalore - 560048, Near Phoenix Market City","Bangalore - 560048, Near Phoenix Market City",84.3416,463.7555387,813,9270464977,Cinema Hall
+Manasa Theatre,Bangalore,"No. 21/5/A, Vasantapura Road, Konanakunte, Bangalore - 560062, Near Yelachenahalli Metro Station",ation,84.9933,863.1962697,886,9030361341,Cinema Hall
+Sandhya Digital Theatre 4k,Bangalore,"No. 58, Chikka Madivala, Btm Layout 1st Stage, Bangalore - 560068",Stage 560068,51.5533,19.6126532,1042,1428368600,Cinema Hall
+PVR Cinemas (Elements Mall),Bangalore,"Sy No.132 P, Msr Regaliaa Elements Mall, 5th Floor, 100 Feet Wide, Thanisandra Main Road, Nagawara, Bangalore - 560045, Behind Manyata Tech Park","Thanisandra Main Road, Nagawara, Bangalore - 560045, Behind Manyata Tech Park",38.1632,588.7600913,1885,2101700033,Cinema Hall
+Mukunda Theatre,Bangalore,"No.30, Banasawadi Main Road, Maruthi Sevanagar, Bangalore - 560033, Near Ramaswamipalya",,95.6832,52.60680197,808,4844409466,Cinema Hall
+Thulasi Theatre,Bangalore,"No.45/2, Varthur Main Road, Marathahalli, Bangalore - 560037, Near Brand Factory",BrandFactory,12.834,501.7488899,1901,6020044314,Cinema Hall
+Veeresh Cinema,Bangalore,"No.13/1,13/2, Magadi Main Road-vijaynagar, Bangalore - 560040, Near Agrahara Dasarahalli, Govindaraja Nagar",,8.7067,611.3339236,1621,110887744,Cinema Hall
+Sri Radhakrishna Theatre,Bangalore,"No. 25, 1st Main, Mattadahalli Main Road, Rt Nagar, Bangalore - 560032, Behind TV Tower",Tower,20.8346,438.5104149,1517,7783615200,Cinema Hall
+Srinivasa Theatre,Bangalore,"1st Main, 8th Cross, S G Palya, Btm Layout 1st Stage, Bangalore - 560029, Near Ghosha College",Near Ghosha College,91.2612,737.4137189,1929,1720024520,Cinema Hall
+Sri Eshwari Theatre,Bangalore,"No.43/2, Eshwari Complex, 100 Feet Road, Banashankari 3rd Stage, Bangalore - 560085, Next to Kamakya Theatre",Next to Kamakya Theatre,37.0154,800.5864378,1868,273951703,Cinema Hall
+Anjan Theatre,Bangalore,"No.41/45, 10th Cross, Magadi Road, Bangalore - 560023, Near Venkateshwara Textiles,Maruthi Suzuki Showroom",,9.6752,83.77471862,1380,9983064674,Cinema Hall
+Siddalingeshwara Theatre,Bangalore,"18th Cross, 31st Main, Jp Nagar 6th Phase, Bangalore - 560078, MG Layout",,30.7708,999.1483367,1620,1309068154,Cinema Hall
+Veeresh Cinemas Screen 2,Bangalore,"No.13/1 & 13/2, Agrahara Dasarahalli, Govindaraja Nagar, Magadi Main Road-vijaynagar, Bangalore - 560040",lore,90.1114,227.3122587,1637,2971276317,Cinema Hall
+Cinepolis Cinemas (Orion Ea..,Bangalore,"No.10/34, 4th Floor, Orion East Mall, Banaswadi Main Road, Maruthi Sevanagar, Bangalore - 560033",Bangalore - 560033,74.1104,45.67849267,958,2639836211,Cinema Hall
+Kamakya Theatre,Bangalore,"No.43/2, Kamakya Complex, 1st Cross, 5th Block, 100 Feet Road, Banashankari 3rd Stage, Bangalore - 560085, Near Devegowda Petrol Bunk","3rd Stage, Bangalore - 560085, Near Devegowda Petrol Bunk",83.195,768.3971731,1256,6992418317,Cinema Hall
+Siddalingeshwara Theatre,Bangalore,"18th Cross, 31st Main, Jp Nagar 6th Phase, Bangalore - 560078, MG Layout",,17.0605,725.5933499,1729,8551446461,Cinema Hall
+Veeresh Cinemas Screen 2,Bangalore,"No.13/1 & 13/2, Agrahara Dasarahalli, Govindaraja Nagar, Magadi Main Road-vijaynagar, Bangalore - 560040",lore,99.3217,569.3114934,511,3345125272,Cinema Hall
+Cinepolis Cinemas (Orion Ea..,Bangalore,"No.10/34, 4th Floor, Orion East Mall, Banaswadi Main Road, Maruthi Sevanagar, Bangalore - 560033",Bangalore - 560033,21.2484,504.0642821,619,6575309257,Cinema Hall
+Kamakya Theatre,Bangalore,"No.43/2, Kamakya Complex, 1st Cross, 5th Block, 100 Feet Road, Banashankari 3rd Stage, Bangalore - 560085, Near Devegowda Petrol Bunk","3rd Stage, Bangalore - 560085, Near Devegowda Petrol Bunk",3.713,437.1778222,1349,8129670565,Cinema Hall
+Sri Manjunatha Electricals,Bangalore,"No 17, Kothnoor Dinnee, Kothnoor Dinne, Bangalore - 560076, Near Ganesh Temple",,68.3795,441.373825,1328,8113892512,Electrician
+Prv Electricals,Bangalore,"No 62 1st Cross, Nanjamma Layout, Krishnarajapuram, Bangalore - 560036, Near Nalapaka Hotel",Ganesh Temple,8.7981,886.9198212,1696,1713891644,Electrician
+Innovate Wiin Electricals,Bangalore,"No 32, 1st Cross,Ashwini Layout, Krishnarajapuram, Bangalore - 560036, Near RTO",RTO,87.6416,252.0041104,824,8692483040,Electrician
+Byraveshwara Electricals,Bangalore,"No. 89, 7th Cross, 15th Main Road, Kurubarahalli, Bangalore - 560086, Near Kurubarahalli Bust Stop,",Kurubarahalli Bust Stop,36.6289,146.1079823,1802,8580737252,Electrician
+Sri Renuka Devi Electrical,Bangalore,"No 115/2, 6th Cross,Vinayaka Layout, Kengeri, Bangalore - 560060, Near Ganesha Temple",,84.8463,103.8464631,1377,1928402493,Electrician
+Excel Services,Bangalore,"No.61/3 A,Ramanna Compound, Nagashettyhalli,1st Main, UAS Layout, Sanjay Nagar, Bangalore - 560094, Near Ayyappa Bakery","Bangalore - 560094, Near Ayyappa Bakery",76.3344,49.82314418,1061,7202859610,Electrician
+Lakshmi Enterprises,Bangalore,"VINAYAKA CIRCLE, Palace Guttahalli, Bangalore - 560003, Near MUNESHWARA TEMPLE",,2.1075,196.5801414,1174,2950763044,Electrician
+Balaji Electrical,Bangalore,"No.2, Krishna Reddy Layout, Arekere Village, Bangalore - 560076, Next to Govt Hospital",,16.7932,594.3658021,589,7077625900,Electrician
+St Marys Electricals,Bangalore,"Building -173 ,7th Cross Naganapallaya, Patelnanjundappa Road, Kammanahalli, Bangalore - 560043, Near Munkuda Theatre",MunkudaTheatre,60.3653,664.7660663,591,1917940294,Electrician
+Khushboo Electrical Service,Bangalore,"No 12, 1st Cross, Marathahalli, Bangalore - 560037, Near Brand Factory",BrandFactory,31.3901,307.3134131,999,2552760918,Electrician
+MNC ELECTRICALS,Bangalore,"No 5, Doddathogur Main Road, Electronic City, Bangalore - 560100, Near Panchayati Office",,85.0186,923.7031992,1907,9940773694,Electrician
+Srinivasa Electrician,Bangalore,"No 325, Sanjay Gandhi Nagar, Lakshmi Devi Nagar-Nandini Layout, Bangalore - 560096, Near Kotak Mahindra Bank and Rajkumar Samadhi",tak Mahindra Bank and Rajkumar Samadhi,63.6341,964.8443248,1812,1132961932,Electrician
+All In One Electrician 24 7,Bangalore,"No 470, 13th Cross, 2nd Stage, Indiranagar, Bangalore - 560038, Near Bus Depot",,63.3884,786.6028038,963,8075661239,Electrician
+Sri Lakshmidevi Electrician,Bangalore,"No 1 Appajiappa Bulding, Hongasandra, Bangalore - 560068, Near Anjinaya Temple",,8.5328,934.328788,1018,9927060269,Electrician
+Sharif Electrician,Bangalore,"No 1258, Arabic College, Bangalore - 560045, Near Arabic College",,46.0987,358.0943379,1332,9571923199,Electrician
+Essar Electricals,Bangalore,"No.36,Susannidhi, Balaji Layout,6th Cross, Badrappa Layout, Bangalore - 560094, Near G R  Kalyana Mantapa",KalyanaMantapa,32.0692,451.9215547,1960,5481815505,Electrician
+Gowtham Electrician,Bangalore,"No 1322 1st Main, 9th Cross, Rajendra Nagar, Bangalore - 560047, Near  Koramangala Passport Office", Office,49.9864,34.25224261,1702,4326643434,Electrician
+Uday Electrical Service,Bangalore,"No 19/2, Damodar Mudaliar Street, Ulsoor, Bangalore - 560008, Near Raghavendra Temple",Raghavendra Temple,27.1939,802.2388334,1644,8314006007,Electrician
+Anupama Electricals Enterpr..,Bangalore,"No 25 , 1st Cross 2main, Mathru Layout, Yelahanka, bangalore - 560064, Near Mother Dairy Circle",Circle,99.6046,286.2752527,734,1512598111,Electrician
+Svn Electricals,Bangalore,"No 12, 6th Cross, Subramanya Layout, Ramamurthy Nagar, Bangalore - 560016, Near Old Police Station, Opposite Uttam Sagar Hotel",Sagarr Hotel,87.5383,306.5363136,1535,9689668279,Electrician
+MNC ELECTRICALS,Bangalore,"No 5, Doddathogur Main Road, Electronic City, Bangalore - 560100, Near Panchayati Office",,78.0907,177.3570514,1743,8553183546,Electrician
+Srinivasa Electrician,Bangalore,"No 325, Sanjay Gandhi Nagar, Lakshmi Devi Nagar-Nandini Layout, Bangalore - 560096, Near Kotak Mahindra Bank and Rajkumar Samadhi",tak Mahindra Bank and Rajkumar Samadhi,50.3629,466.517771,1367,2152122969,Electrician
+All In One Electrician 24 7,Bangalore,"No 470, 13th Cross, 2nd Stage, Indiranagar, Bangalore - 560038, Near Bus Depot",,89.6989,986.5209583,1061,5917004940,Electrician
+Sri Lakshmidevi Electrician,Bangalore,"No 1 Appajiappa Bulding, Hongasandra, Bangalore - 560068, Near Anjinaya Temple",,77.8919,508.5800892,1053,9927046566,Electrician
+Sharif Electrician,Bangalore,"No 1258, Arabic College, Bangalore - 560045, Near Arabic College",,50.6822,247.0738126,1549,3206212046,Electrician
+Essar Electricals,Bangalore,"No.36,Susannidhi, Balaji Layout,6th Cross, Badrappa Layout, Bangalore - 560094, Near G R  Kalyana Mantapa",KalyanaMantapa,15.5546,976.2788927,1114,6932591078,Electrician
+Gowtham Electrician,Bangalore,"No 1322 1st Main, 9th Cross, Rajendra Nagar, Bangalore - 560047, Near  Koramangala Passport Office", Office,77.9079,188.9918617,516,5736126241,Electrician
+Uday Electrical Service,Bangalore,"No 19/2, Damodar Mudaliar Street, Ulsoor, Bangalore - 560008, Near Raghavendra Temple",Raghavendra Temple,36.0404,367.2336558,1051,8600209628,Electrician
+Anupama Electricals Enterpr..,Bangalore,"No 25 , 1st Cross 2main, Mathru Layout, Yelahanka, bangalore - 560064, Near Mother Dairy Circle",Circle,71.0205,295.0394379,566,4473243024,Electrician
+Svn Electricals,Bangalore,"No 12, 6th Cross, Subramanya Layout, Ramamurthy Nagar, Bangalore - 560016, Near Old Police Station, Opposite Uttam Sagar Hotel",Sagarr Hotel,35.5142,854.6932969,1516,7970205032,Electrician
+Venkatesh Electrical Servic..,Bangalore,"No 1 ,3rd Cross, Sanjeevininagara,Madalapalya Main Road, Nagarbhavi, Bangalore - 560072, Near By Sai Baba Temple",Baba Temple,88.9857,196.483623,1754,855420229,Electrician
+Malikarjuna Swamy Enterpris..,Bangalore,"No 32, 2nd Cross,Chansandra Main Road, Whitefield, Bangalore - 560066, Near Nagondanahalli Water Tank",Waterer Tank,80.1094,65.6625943,1854,9680271604,Electrician
+Vinayaka Electricians And C..,Bangalore,"#350, 5th Cross, Lakshmi Layout,Arekere, Bannerghatta Road, Bangalore - 560076, Near Mico Layout Bus Stop",Bus Stop,3.8864,799.0781578,1887,1723301835,Electrician
+Shree Guru Raghavendra Ente..,Bangalore,"10b, 1st Main 1cross, T Dasarahalli, Bangalore - 560057, Sri Vidyaniketan English School",,81.1581,88.22903389,506,1741458800,Electrician
+Jagannath Multiple Works,Bangalore,"Veersandra, Electronic City Phase 1, Bangalore - 560100, Near Sbi Bank",,21.0996,350.0544493,977,547529967,Electrician
+Infinite Seva,Bangalore,"No 578/a, 6Th Cross, Hal 3rd Stage, Opp to Manipal Road, Kodihalli, Indiranagar, Bangalore - 560008, Near Udupi Hotel","Indiranagar, Bangalore - 560008, Near Udupi Hotel",81.6414,200.6341876,505,8397091699,Electrician
+Sai Electricals,Bangalore,"No. 20 New High School Road, VV Puram, Basavanagudi, Bangalore - 560004, Near Metro Station",,24.1073,329.8439348,1840,8353736463,Electrician
+Gk Enterprises,Bangalore,"No 3754, 50 Feet Road,14 Th Cross,Kumaraswamy Layout, Bangalore - 560111, Near 15 F Bus Stop",15 F Bus Stop,7.1776,286.076144,533,8206268739,Electrician
+Ksv Electricals,Bangalore,"Guruswamy Mata, Ulsoor, Bangalore - 560008, Near Metro Station",,70.5651,768.3035097,1135,3320218253,Electrician
+Bmrg Enterprises,Bangalore,"RMV 2nd Stage, Sanjay Nagar, Bangalore - 560094",,5.9815,998.8016901,891,9383099322,Electrician
+Venkatesh Electrical Servic..,Bangalore,"No 1 ,3rd Cross, Sanjeevininagara,Madalapalya Main Road, Nagarbhavi, Bangalore - 560072, Near By Sai Baba Temple",Baba Temple,89.749,7.914346547,1621,4030277675,Electrician
+Malikarjuna Swamy Enterpris..,Bangalore,"No 32, 2nd Cross,Chansandra Main Road, Whitefield, Bangalore - 560066, Near Nagondanahalli Water Tank",Waterer Tank,42.6646,345.1890486,1188,8878794849,Electrician
+Vinayaka Electricians And C..,Bangalore,"#350, 5th Cross, Lakshmi Layout,Arekere, Bannerghatta Road, Bangalore - 560076, Near Mico Layout Bus Stop",Bus Stop,42.7945,683.8326381,591,3363085420,Electrician
+Shree Guru Raghavendra Ente..,Bangalore,"10b, 1st Main 1cross, T Dasarahalli, Bangalore - 560057, Sri Vidyaniketan English School",,73.7424,410.366361,1038,9346700901,Electrician
+Jagannath Multiple Works,Bangalore,"Veersandra, Electronic City Phase 1, Bangalore - 560100, Near Sbi Bank",,99.3905,901.6501863,1553,3882762408,Electrician
+Infinite Seva,Bangalore,"No 578/a, 6Th Cross, Hal 3rd Stage, Opp to Manipal Road, Kodihalli, Indiranagar, Bangalore - 560008, Near Udupi Hotel","Indiranagar, Bangalore - 560008, Near Udupi Hotel",70.1847,51.62532653,1881,1593504624,Electrician
+Sai Electricals,Bangalore,"No. 20 New High School Road, VV Puram, Basavanagudi, Bangalore - 560004, Near Metro Station",,30.8168,180.0828383,1530,4176709999,Electrician
+Gk Enterprises,Bangalore,"No 3754, 50 Feet Road,14 Th Cross,Kumaraswamy Layout, Bangalore - 560111, Near 15 F Bus Stop",15 F Bus Stop,83.3667,984.9364431,544,9271447168,Electrician
+Ksv Electricals,Bangalore,"Guruswamy Mata, Ulsoor, Bangalore - 560008, Near Metro Station",,81.8325,163.8624588,1984,8963185326,Electrician
+Bmrg Enterprises,Bangalore,"RMV 2nd Stage, Sanjay Nagar, Bangalore - 560094",,39.163,789.1796209,805,6718295654,Electrician
+Total Electricals,Bangalore,"Kammanahalli, Bangalore - 560043, Near Empire Hotel",,26.6885,870.8273194,1800,3891426203,Electrician
+HKT Management Services,Bangalore,"Kariyammana Agrahara Road, Kariyammana Agrahara, Bangalore - 560103, Opposite Banyan Tree Apartment",partment,65.284,35.65186446,560,3988054019,Electrician
+Minchu,Bangalore,"No.345/21, 28th Main , 38th Cross, Jayanagar 9th Block, Bangalore - 560069, Bank Of Baroda ATM",Of Baroda ATM,52.828,47.04155391,662,731344343,Electrician
+Sri Ranganatha Electrical S..,Bangalore,"No 17/1, 5th Main,Industrial Town, Vijayanagar, Bangalore - 560010, Near Fire Station",,37.2673,451.5167216,1779,524695298,Electrician
+Mathaji Electrical & Electr..,Bangalore,"Door No 19, 3rd Cross, 27th Main Somasundarapalya HSR LAYOUT, HSR Layout, Bangalore - 560102, Near Madeena Masjid","560102, Near Madeena Masjid",54.8767,327.9734896,804,8325460069,Electrician
+M P Electricals,Bangalore,"No.171, Seppings Road, Shivaji Nagar, Bangalore - 560001, Near Coles Park",,24.7008,559.4089801,1090,8784528200,Electrician
+Muneshwara Electricals,Bangalore,"MUNESHWARA ELECTRICALS, 12/A 1st Main Road GMR Layout RMV 2nd Stage,Geddalahalli, Sanjay Nagar, Bangalore - 560094, Essar Petrol Pump",,82.337,284.1015055,705,9523693271,Electrician
+Muneshwara Electricals,Bangalore,"No 592, 4th Main 3rd Cross, Basaveshwara Nagar, Bangalore - 560079, Near Gowtham School",,26.1545,819.2498015,1094,6373484394,Electrician
+Varamahalakshmi Electrical,Bangalore,"No 7, 1st Cross, Ramakrishna Layout, Nagarbhavi, Bangalore - 560072, Near Indira Canteen",IndiraCanteen,6.3848,300.2720175,1053,7020439954,Electrician
+Guru Raghavendra Electrical..,Bangalore,"No   32/A, 7th Main, Sriram Nagar, Ittamadu, Banashankari 3rd Stage, Bangalore - 560085",,32.563,828.313965,1369,5862510180,Electrician
+Muneshwara Electricals,Bangalore,"MUNESHWARA ELECTRICALS, 12/A 1st Main Road GMR Layout RMV 2nd Stage,Geddalahalli, Sanjay Nagar, Bangalore - 560094, Essar Petrol Pump",,88.4749,475.5043553,722,5419553267,Electrician
+Muneshwara Electricals,Bangalore,"No 592, 4th Main 3rd Cross, Basaveshwara Nagar, Bangalore - 560079, Near Gowtham School",,87.4916,750.6100879,1644,5010268070,Electrician
+Varamahalakshmi Electrical,Bangalore,"No 7, 1st Cross, Ramakrishna Layout, Nagarbhavi, Bangalore - 560072, Near Indira Canteen",IndiraCanteen,87.6752,952.7733833,1098,7131263546,Electrician
+Guru Raghavendra Electrical..,Bangalore,"No   32/A, 7th Main, Sriram Nagar, Ittamadu, Banashankari 3rd Stage, Bangalore - 560085",,6.5582,548.4866063,563,9620990243,Electrician
+Vishal Electrician,Delhi,"T 247, Baljeet Nagar, Patel Nagar, Delhi - 110008, Kamal Sweets , Baljeet Nagar",,85.0346,302.6500015,553,8877569520,Electrician
+Jkm Construction,Delhi,"D-2, Jangpura Extention, Delhi - 110014, Near Sanatam Dharam Mandir",,55.8256,838.8372908,1051,6847265447,Electrician
+A J Electrical,Delhi,"NG - 281/2, MATKE WALI GALI, Paschim Vihar, Delhi - 110063, JAWALA HERI MARKET",HERI MARKET,91.9661,852.7451602,1039,2184101392,Electrician
+Krishna Electricals,Delhi,"Shop No.A-153, Gulab Bhag, Metro Pillar No. 750, Dwarka More, Delhi - 110059, Near Dwarka More Metro Station",MetroStation,11.3092,532.519773,1537,2828808410,Electrician
+Kumar Electronics and Home ..,Delhi,"Sector 45, Gurgaon Sector 45, Gurgaon, Gurgaon - 122001, Near Ramada Hotel",Ramadaa Hotel,59.5855,685.1328403,1860,2285959046,Electrician
+Bablu Electricals,Delhi,"Shop No-7 Tara Complex, Matke Wali Gali, Paschim Vihar, Delhi - 110063, Opposite Vodafone Store",tore,9.3899,667.5404109,944,6873698821,Electrician
+Indersingh Electrician,Delhi,"Shop No-1,Plot No-14, Faridabad Nit, Faridabad - 121001, Near Dr L D Arora",D Arora,72.1722,688.0714758,848,1308463517,Electrician
+Perfect Electrician,Delhi,"A Block 112 Indirapuram, Ghaziabad - 201014, Jaipuria Mall",,36.751,381.6356886,1469,7105073814,Electrician
+Mohit Electricals,Delhi,"Shop No.725 G, Kala Pathar Road, Nyay Khand 2-Indirapuram, Ghaziabad - 201014, Near Aditya Mall",Mall,16.8951,334.0571396,1678,7350150117,Electrician
+Coral Reef,Delhi,"Shop No 5, Main Golf Course Extension Road, Gurgaon, Gurgaon - 122001, Near Badsahpur Red Lights",ights,32.6962,139.9592063,867,8463665733,Electrician
+Naresh Kumar Electriacals,Delhi,"Shop  No-509/A, Gali Number 5A, Govind Puri-Kalkaji, Delhi - 110019, Near C Laal Chowk",Laall Chowk,74.0086,41.44462409,984,2175136901,Electrician
+Verma Electrical,Delhi,"Gurgaon Sector 85, Gurgaon - 122051, Sikandarpura Badha",,51.2426,946.299224,953,2906936490,Electrician
+D S Electricals,Delhi,"J4/40, Shop No - 7, Khirkhi Extension, Malviya Nagar, Delhi - 110017, Near Krishna Mandir",Mandir,80.2474,206.2151956,1217,9026119098,Electrician
+Metro Air Conditioner & Ele..,Delhi,"Shop No-201A Mahavir Enclave Part-2, Gali No-6, Janakpuri, Delhi - 110058, Main Dabri",,2.4921,182.0363288,1494,7420984890,Electrician
+Hi-Tech Engineers,Delhi,"Office Address S-1/205, Gali Number -2, Tilak Nagar, Delhi - 110018, Old Mahaveer Nagar, Near 20 Block,","Mahaveer Nagar, Near 20 Block,",66.898,976.9936205,1247,1217810557,Electrician
+Mahadev Electrical,Delhi,"Gali No 2, Jagat Puri, Delhi - 110051, ANARKALI GARDEN",,78.6718,39.32212714,865,235529539,Electrician
+Abhishek Kumar Electrical S..,Delhi,"156 Kataria House, Bajgera, Palam Vihar, Gurgaon - 122017, Palam Vihar",,52.7105,486.1690877,1826,5474864143,Electrician
+Amit Electrical,Delhi,"Shop No 1, Main Road, Noida Sector 77, Noida - 201304, Near Wine Shop",Winene Shop,35.2651,310.5630345,909,3996187236,Electrician
+Rahul Electrician,Delhi,"Shop No 55-56, Patparganj, Delhi - 110092",Patparganj 110092,3.8974,164.7899091,1266,9837508281,Electrician
+Bunty Electrician Contracto..,Delhi,"W-167/24, Harijan Colony, Tilak Nagar, Delhi - 110018, Near Police Chowki",Police Chowki,44.9232,693.5295121,1183,4172229804,Electrician
+Naresh Kumar Electriacals,Delhi,"Shop  No-509/A, Gali Number 5A, Govind Puri-Kalkaji, Delhi - 110019, Near C Laal Chowk",Laall Chowk,16.2113,711.6374359,1556,6682871206,Electrician
+Verma Electrical,Delhi,"Gurgaon Sector 85, Gurgaon - 122051, Sikandarpura Badha",,56.1225,381.6717508,805,3802089784,Electrician
+D S Electricals,Delhi,"J4/40, Shop No - 7, Khirkhi Extension, Malviya Nagar, Delhi - 110017, Near Krishna Mandir",Mandir,33.4799,846.6328105,965,1711973148,Electrician
+Metro Air Conditioner & Ele..,Delhi,"Shop No-201A Mahavir Enclave Part-2, Gali No-6, Janakpuri, Delhi - 110058, Main Dabri",,78.3497,978.0502559,1844,5929519115,Electrician
+Hi-Tech Engineers,Delhi,"Office Address S-1/205, Gali Number -2, Tilak Nagar, Delhi - 110018, Old Mahaveer Nagar, Near 20 Block,","Mahaveer Nagar, Near 20 Block,",5.3083,584.2939305,927,944775286,Electrician
+Mahadev Electrical,Delhi,"Gali No 2, Jagat Puri, Delhi - 110051, ANARKALI GARDEN",,65.4534,278.8834148,507,6040810739,Electrician
+Abhishek Kumar Electrical S..,Delhi,"156 Kataria House, Bajgera, Palam Vihar, Gurgaon - 122017, Palam Vihar",,73.7151,691.10402,607,1947001440,Electrician
+Amit Electrical,Delhi,"Shop No 1, Main Road, Noida Sector 77, Noida - 201304, Near Wine Shop",Winene Shop,14.4066,514.6081056,1896,5165688412,Electrician
+Rahul Electrician,Delhi,"Shop No 55-56, Patparganj, Delhi - 110092",Patparganj 110092,93.6831,200.2018927,669,7591935220,Electrician
+Bunty Electrician Contracto..,Delhi,"W-167/24, Harijan Colony, Tilak Nagar, Delhi - 110018, Near Police Chowki",Police Chowki,69.2368,689.4319637,1647,256399284,Electrician
+Rajeev Sharma Industrial El..,Delhi,"F-81, Gali-81, Uttam Nagar, Delhi - 110059, Near Bindapur Old Thana",Oldd Thana,39.9297,256.3912395,1212,3544239520,Electrician
+Jaiswal Electrical,Delhi,"Shop No. G -81, West Patel Nagar, Delhi - 110008, Near Chatri Park",,12.7717,960.899553,1038,5721173664,Electrician
+Ajay Electrical And Civil W..,Delhi,"Rz E1/A, Mahavir Enclave, Delhi - 110045, Near Fit I'M Gym N Spa",,44.0619,492.1504758,1691,8304766458,Electrician
+Ak Power Solutions,Delhi,"House No. 543, Shiv Park, Khora Colony, Noida - 201309, Opposite Sunrise Public School",,5.206,5.511397295,961,7652895261,Electrician
+Viraj Electricals,Delhi,"Building No 50, Gali Number 1 Saidulajab, Saket, Delhi - 110017, Near Saket Metro",Sakett Metro,63.6008,500.566517,923,2662553894,Electrician
+Electrician On Call,Delhi,"M-15 Lajpat Nagar 3, Lajpat Nagar 3, Delhi - 110024",,70.2276,407.5771963,654,1092189090,Electrician
+Anil Electricals,Delhi,"Plot Number  25-26,, Friends Enclave,, Shahberi, Ghaziabad - 201009, Near Modern Public School",Public School,38.8922,271.6216636,1785,3459548529,Electrician
+Rana Electricals,Delhi,"Bani Squre, Gurgaon Sector 49, Gurgaon - 122018, Near SS Plaza",,80.4457,744.5776319,1482,2527003219,Electrician
+Sarvesh Electricion,Delhi,"Plot No -210, Gali No -22, Delhi - 110078, Near Metro  Station",MetroStation,44.8843,624.5219765,1690,4936361827,Electrician
+Dev Electricals,Delhi,"28/94 Gali No 14 Nr Shiv Mandir, Vishwas Nagar-Shahdara, Delhi - 110032, Shiv Mandir",Shiv Mandir,12.7347,357.4020766,747,4555541719,Electrician
+Rajeev Sharma Industrial El..,Delhi,"F-81, Gali-81, Uttam Nagar, Delhi - 110059, Near Bindapur Old Thana",Oldd Thana,5.6173,519.5846428,1535,5989626103,Electrician
+Jaiswal Electrical,Delhi,"Shop No. G -81, West Patel Nagar, Delhi - 110008, Near Chatri Park",,77.6206,252.7145604,1536,7147917286,Electrician
+Ajay Electrical And Civil W..,Delhi,"Rz E1/A, Mahavir Enclave, Delhi - 110045, Near Fit I'M Gym N Spa",,96.7614,362.8733277,1295,4322989000,Electrician
+Ak Power Solutions,Delhi,"House No. 543, Shiv Park, Khora Colony, Noida - 201309, Opposite Sunrise Public School",,29.4249,184.5517961,1732,6142309280,Electrician
+Viraj Electricals,Delhi,"Building No 50, Gali Number 1 Saidulajab, Saket, Delhi - 110017, Near Saket Metro",Sakett Metro,2.5248,634.4284383,1422,4154970389,Electrician
+Electrician On Call,Delhi,"M-15 Lajpat Nagar 3, Lajpat Nagar 3, Delhi - 110024",,13.5577,471.0203965,639,4083023069,Electrician
+Anil Electricals,Delhi,"Plot Number  25-26,, Friends Enclave,, Shahberi, Ghaziabad - 201009, Near Modern Public School",Public School,57.4932,110.6483615,1440,5631560922,Electrician
+Rana Electricals,Delhi,"Bani Squre, Gurgaon Sector 49, Gurgaon - 122018, Near SS Plaza",,99.8955,201.7992559,1468,6407645012,Electrician
+Sarvesh Electricion,Delhi,"Plot No -210, Gali No -22, Delhi - 110078, Near Metro  Station",MetroStation,63.1684,39.45345378,891,5911794843,Electrician
+Dev Electricals,Delhi,"28/94 Gali No 14 Nr Shiv Mandir, Vishwas Nagar-Shahdara, Delhi - 110032, Shiv Mandir",Shiv Mandir,24.2827,736.4779628,2000,2868867370,Electrician
+J K Electricals,Delhi,"Shop No. 7, Main Road, Gyan Khand 4-indirapuram, Ghaziabad - 201014",indirapuram 201014,59.6522,779.5228303,743,1906788119,Electrician
+Shree Shyam Electrician and..,Delhi,"N H 8, Gurgaon Sector 83, Gurgaon - 122004, Near Rampura Flyover",RampuraFlyover,89.3546,648.1265091,1545,5126492483,Electrician
+Najim Electrical,Delhi,"Shop No 70, Carterpuri, Palam Vihar, Gurgaon - 122017, Near McDonald's",,5.9698,238.1771897,1914,5714301153,Electrician
+Mehta Electricals,Delhi,"Rz-74 Jain Colony Part 1, Shukar Bazar Road, Uttam Nagar West, Delhi - 110059",110059,16.5556,437.9560141,992,9034865366,Electrician
+Vishnu Electrical,Delhi,"Shop Number C 239, Ashok Vihar 2, Delhi - 110052, Near Auto Alena Company",AlenaCompany,97.9332,28.89141375,1256,3708060836,Electrician
+Piyush Electrical,Delhi,"Kailash Bhagat, 468,Silokhra, Gurgaon Sector 31, Gurgaon - 122001",Sector 122001,51.2159,841.324421,1180,1264430564,Electrician
+Gurunanak Electricals,Delhi,"Plot No. A2/42, Gupta Palace, 1st Floor 121, Rajouri Garden, Delhi - 110027",,30.1604,62.63721078,1947,7449815245,Electrician
+Md Sohail Electricians,Delhi,"House No 4, Gurgaon Sector 52, Gurgaon - 122002, Indera Colony",Indera Colony,73.6396,409.9613438,1766,9283661097,Electrician
+M S Electrical,Delhi,"C-7, Street No-9, Krishna Nagar East, Delhi - 110051",East 110051,34.6695,524.6246916,1745,2991205303,Electrician
+Pc Electrical Works,Delhi,"A-233 Sector-69, Transport Nagar, Noida Sector 69, Noida - 201307",,99.7636,476.1488524,1623,1679404839,Electrician
+Piyush Electrical,Delhi,"Kailash Bhagat, 468,Silokhra, Gurgaon Sector 31, Gurgaon - 122001",Sector 122001,62.793,782.0091278,871,7728824843,Electrician
+Gurunanak Electricals,Delhi,"Plot No. A2/42, Gupta Palace, 1st Floor 121, Rajouri Garden, Delhi - 110027",,27.6068,477.0844933,1624,4938597042,Electrician
+Md Sohail Electricians,Delhi,"House No 4, Gurgaon Sector 52, Gurgaon - 122002, Indera Colony",Indera Colony,35.775,206.370047,1462,4245002172,Electrician
+M S Electrical,Delhi,"C-7, Street No-9, Krishna Nagar East, Delhi - 110051",East 110051,41.5141,31.60166968,899,4574618404,Electrician
+Pc Electrical Works,Delhi,"A-233 Sector-69, Transport Nagar, Noida Sector 69, Noida - 201307",,41.5141,31.60166968,899,4574618404,Electrician
